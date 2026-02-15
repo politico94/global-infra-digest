@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Infrastructure Intelligence Digest</title>
+    <meta name="description" content="Daily intelligence briefing on global infrastructure policy, project finance, and delivery innovation.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0C0F14;
+            --bg-secondary: #13171F;
+            --bg-card: #181D27;
+            --bg-card-hover: #1E2433;
+            --bg-accent: #1A2332;
+            --border-subtle: rgba(255,255,255,0.06);
+            --border-accent: rgba(255,255,255,0.1);
+            --text-primary: #E8EAF0;
+            --text-secondary: #9BA3B5;
+            --text-muted: #5D6680;
+            --accent-gold: #D4A853;
+            --accent-gold-dim: rgba(212,168,83,0.15);
+            --accent-blue: #4A90D9;
+            --accent-blue-dim: rgba(74,144,217,0.12);
+            --accent-green: #4CAF7D;
+            --accent-green-dim: rgba(76,175,125,0.12);
+            --accent-coral: #D97455;
+            --accent-coral-dim: rgba(217,116,85,0.12);
+            --accent-purple: #8B7EC8;
+            --accent-purple-dim: rgba(139,126,200,0.12);
+            --accent-teal: #4ABFBF;
+            --accent-teal-dim: rgba(74,191,191,0.12);
+            --sig-high: #D4A853;
+            --sig-medium: #4A90D9;
+            --sig-low: #5D6680;
+            --font-display: 'DM Serif Display', Georgia, serif;
+            --font-body: 'IBM Plex Sans', -apple-system, sans-serif;
+            --font-mono: 'IBM Plex Mono', monospace;
+        }
+
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        html {
+            font-size: 16px;
+            scroll-behavior: smooth;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        body {
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            font-family: var(--font-body);
+            line-height: 1.65;
+            min-height: 100vh;
+        }
+
+        /* ---------- NOISE TEXTURE OVERLAY ---------- */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        /* ---------- LAYOUT ---------- */
+        .container {
+            position: relative;
+            z-index: 1;
+            max-width: 920px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        /* ---------- HEADER ---------- */
+        .masthead {
+            padding: 56px 0 40px;
+            border-bottom: 1px solid var(--border-subtle);
+            position: relative;
+        }
+
+        .masthead::after {
+            content: '';
+            position: absolute;
+            bottom: -1px;
+            left: 0;
+            width: 120px;
+            height: 2px;
+            background: var(--accent-gold);
+        }
+
+        .masthead-eyebrow {
+            font-family: var(--font-mono);
+            font-size: 0.7rem;
+            font-weight: 500;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--accent-gold);
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .masthead-eyebrow::before {
+            content: '';
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            background: var(--accent-gold);
+            border-radius: 50%;
+            animation: pulse-dot 2.5s ease-in-out infinite;
+        }
+
+        @keyframes pulse-dot {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.4; }
+        }
+
+        .masthead h1 {
+            font-family: var(--font-display);
+            font-size: clamp(2rem, 5vw, 2.8rem);
+            font-weight: 400;
+            line-height: 1.15;
+            color: var(--text-primary);
+            margin-bottom: 8px;
+        }
+
+        .masthead h1 em {
+            color: var(--accent-gold);
+            font-style: italic;
+        }
+
+        .masthead-meta {
+            font-family: var(--font-mono);
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            margin-top: 16px;
+        }
+
+        .masthead-meta span {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        /* ---------- PULSE (LEAD BRIEF) ---------- */
+        .pulse-section {
+            margin: 40px 0;
+            padding: 28px 32px;
+            background: linear-gradient(135deg, var(--bg-accent), var(--bg-card));
+            border: 1px solid var(--border-accent);
+            border-left: 3px solid var(--accent-gold);
+            border-radius: 4px;
+            position: relative;
+        }
+
+        .pulse-label {
+            font-family: var(--font-mono);
+            font-size: 0.65rem;
+            font-weight: 500;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: var(--accent-gold);
+            margin-bottom: 14px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .pulse-label::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--accent-gold-dim);
+        }
+
+        .pulse-text {
+            font-size: 1.05rem;
+            line-height: 1.75;
+            color: var(--text-primary);
+            font-weight: 300;
+        }
+
+        /* ---------- NAV (SECTION JUMP) ---------- */
+        .section-nav {
+            margin: 32px 0;
+            padding: 20px 0;
+            border-top: 1px solid var(--border-subtle);
+            border-bottom: 1px solid var(--border-subtle);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .section-nav a {
+            font-family: var(--font-mono);
+            font-size: 0.7rem;
+            letter-spacing: 0.06em;
+            color: var(--text-muted);
+            text-decoration: none;
+            padding: 6px 14px;
+            border: 1px solid var(--border-subtle);
+            border-radius: 3px;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+        }
+
+        .section-nav a:hover {
+            color: var(--accent-gold);
+            border-color: var(--accent-gold-dim);
+            background: var(--accent-gold-dim);
+        }
+
+        /* ---------- SECTIONS ---------- */
+        .digest-section {
+            margin: 48px 0;
+            animation: fade-up 0.6s ease both;
+        }
+
+        @keyframes fade-up {
+            from { opacity: 0; transform: translateY(16px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .digest-section:nth-child(1) { animation-delay: 0.05s; }
+        .digest-section:nth-child(2) { animation-delay: 0.1s; }
+        .digest-section:nth-child(3) { animation-delay: 0.15s; }
+        .digest-section:nth-child(4) { animation-delay: 0.2s; }
+        .digest-section:nth-child(5) { animation-delay: 0.25s; }
+        .digest-section:nth-child(6) { animation-delay: 0.3s; }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            margin-bottom: 8px;
+            padding-bottom: 14px;
+            border-bottom: 1px solid var(--border-subtle);
+            position: relative;
+        }
+
+        .section-icon {
+            font-size: 1.3rem;
+            width: 42px;
+            height: 42px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 8px;
+            flex-shrink: 0;
+        }
+
+        /* Section-specific accent colors */
+        .section-multilateral_finance .section-icon { background: var(--accent-blue-dim); }
+        .section-multilateral_finance .section-header { border-bottom-color: rgba(74,144,217,0.2); }
+        .section-multilateral_finance .section-header::after { background: var(--accent-blue); }
+
+        .section-major_economies .section-icon { background: var(--accent-purple-dim); }
+        .section-major_economies .section-header { border-bottom-color: rgba(139,126,200,0.2); }
+        .section-major_economies .section-header::after { background: var(--accent-purple); }
+
+        .section-canada_watch .section-icon { background: var(--accent-coral-dim); }
+        .section-canada_watch .section-header { border-bottom-color: rgba(217,116,85,0.2); }
+        .section-canada_watch .section-header::after { background: var(--accent-coral); }
+
+        .section-project_finance_delivery .section-icon { background: var(--accent-gold-dim); }
+        .section-project_finance_delivery .section-header { border-bottom-color: rgba(212,168,83,0.2); }
+        .section-project_finance_delivery .section-header::after { background: var(--accent-gold); }
+
+        .section-climate_sustainability .section-icon { background: var(--accent-green-dim); }
+        .section-climate_sustainability .section-header { border-bottom-color: rgba(76,175,125,0.2); }
+        .section-climate_sustainability .section-header::after { background: var(--accent-green); }
+
+        .section-tech_innovation .section-icon { background: var(--accent-teal-dim); }
+        .section-tech_innovation .section-header { border-bottom-color: rgba(74,191,191,0.2); }
+        .section-tech_innovation .section-header::after { background: var(--accent-teal); }
+
+        .section-header::after {
+            content: '';
+            position: absolute;
+            bottom: -1px;
+            left: 0;
+            width: 56px;
+            height: 2px;
+            border-radius: 1px;
+        }
+
+        .section-title {
+            font-family: var(--font-display);
+            font-size: 1.35rem;
+            font-weight: 400;
+            color: var(--text-primary);
+        }
+
+        .section-desc {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+
+        /* ---------- ITEM CARDS ---------- */
+        .item-list {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+
+        .item-card {
+            padding: 20px 24px;
+            background: var(--bg-card);
+            border: 1px solid var(--border-subtle);
+            border-radius: 4px;
+            transition: all 0.25s ease;
+            position: relative;
+        }
+
+        .item-card:hover {
+            background: var(--bg-card-hover);
+            border-color: var(--border-accent);
+            transform: translateX(4px);
+        }
+
+        .item-card-top {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 16px;
+            margin-bottom: 8px;
+        }
+
+        .item-title {
+            font-family: var(--font-body);
+            font-size: 0.95rem;
+            font-weight: 500;
+            line-height: 1.45;
+            color: var(--text-primary);
+        }
+
+        .item-title a {
+            color: inherit;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .item-title a:hover {
+            color: var(--accent-gold);
+        }
+
+        .item-significance {
+            flex-shrink: 0;
+            font-family: var(--font-mono);
+            font-size: 0.6rem;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            padding: 3px 8px;
+            border-radius: 2px;
+            font-weight: 500;
+        }
+
+        .sig-high {
+            color: var(--sig-high);
+            background: var(--accent-gold-dim);
+        }
+        .sig-medium {
+            color: var(--sig-medium);
+            background: var(--accent-blue-dim);
+        }
+        .sig-low {
+            color: var(--sig-low);
+            background: rgba(93,102,128,0.15);
+        }
+
+        .item-summary {
+            font-size: 0.85rem;
+            line-height: 1.7;
+            color: var(--text-secondary);
+            font-weight: 300;
+        }
+
+        .item-meta {
+            margin-top: 10px;
+            font-family: var(--font-mono);
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .item-source {
+            padding: 2px 8px;
+            background: rgba(255,255,255,0.04);
+            border-radius: 2px;
+        }
+
+        .empty-section {
+            padding: 24px;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            font-style: italic;
+            background: var(--bg-card);
+            border: 1px dashed var(--border-subtle);
+            border-radius: 4px;
+        }
+
+        /* ---------- OUTLOOK (CLOSING) ---------- */
+        .outlook-section {
+            margin: 48px 0 24px;
+            padding: 28px 32px;
+            background: var(--bg-card);
+            border: 1px solid var(--border-subtle);
+            border-left: 3px solid var(--accent-blue);
+            border-radius: 4px;
+        }
+
+        .outlook-label {
+            font-family: var(--font-mono);
+            font-size: 0.65rem;
+            font-weight: 500;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: var(--accent-blue);
+            margin-bottom: 14px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .outlook-label::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--accent-blue-dim);
+        }
+
+        .outlook-text {
+            font-size: 0.95rem;
+            line-height: 1.75;
+            color: var(--text-secondary);
+            font-weight: 300;
+        }
+
+        /* ---------- FOOTER ---------- */
+        .digest-footer {
+            padding: 40px 0;
+            margin-top: 24px;
+            border-top: 1px solid var(--border-subtle);
+            text-align: center;
+        }
+
+        .footer-brand {
+            font-family: var(--font-display);
+            font-size: 1.1rem;
+            color: var(--text-muted);
+            margin-bottom: 12px;
+        }
+
+        .footer-disclaimer {
+            font-size: 0.72rem;
+            color: var(--text-muted);
+            max-width: 600px;
+            margin: 0 auto 16px;
+            line-height: 1.65;
+            opacity: 0.7;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 24px;
+            font-family: var(--font-mono);
+            font-size: 0.65rem;
+        }
+
+        .footer-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .footer-links a:hover {
+            color: var(--accent-gold);
+        }
+
+        .footer-stats {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            gap: 32px;
+            font-family: var(--font-mono);
+            font-size: 0.65rem;
+            color: var(--text-muted);
+        }
+
+        .footer-stats .stat-value {
+            color: var(--accent-gold);
+            font-weight: 500;
+        }
+
+        /* ---------- RESPONSIVE ---------- */
+        @media (max-width: 640px) {
+            .container { padding: 0 16px; }
+            .masthead { padding: 32px 0 28px; }
+            .pulse-section, .outlook-section { padding: 20px; }
+            .item-card { padding: 16px; }
+            .section-nav { gap: 6px; }
+            .section-nav a { padding: 5px 10px; font-size: 0.65rem; }
+            .item-card-top { flex-direction: column; gap: 6px; }
+            .masthead-meta { flex-direction: column; gap: 8px; }
+        }
+
+        /* ---------- PRINT ---------- */
+        @media print {
+            body { background: #fff; color: #1a1a1a; }
+            .section-nav { display: none; }
+            .item-card { border: 1px solid #ddd; break-inside: avoid; }
+        }
+
+        /* ---------- SCROLL REVEAL ---------- */
+        .reveal {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.5s ease, transform 0.5s ease;
+        }
+        .reveal.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <!-- ===== MASTHEAD ===== -->
+        <header class="masthead">
+            <div class="masthead-eyebrow">Center of Excellence</div>
+            <h1>Global Infrastructure <em>Intelligence</em></h1>
+            <div class="masthead-meta">
+                <span>📅 {{ date_display }}</span>
+                <span>🌐 {{ total_sources }} sources monitored</span>
+                <span>⏱️ Generated {{ generated_at }}</span>
+            </div>
+        </header>
+
+        <!-- ===== GLOBAL PULSE ===== -->
+        <div class="pulse-section">
+            <div class="pulse-label">Global Infrastructure Pulse</div>
+            <div class="pulse-text">{{ digest.pulse }}</div>
+        </div>
+
+        <!-- ===== SECTION NAV ===== -->
+        <nav class="section-nav" role="navigation" aria-label="Section navigation">
+            {% for section_id, section_info in sections_config.items() %}
+            <a href="#{{ section_id }}">{{ section_info.icon }} {{ section_info.title }}</a>
+            {% endfor %}
+        </nav>
+
+        <!-- ===== DIGEST SECTIONS ===== -->
+        <main>
+            {% for section_id, section_info in sections_config.items() %}
+            <section class="digest-section section-{{ section_id }} reveal" id="{{ section_id }}">
+                <div class="section-header">
+                    <div class="section-icon">{{ section_info.icon }}</div>
+                    <div>
+                        <div class="section-title">{{ section_info.title }}</div>
+                        <div class="section-desc">{{ section_info.description }}</div>
+                    </div>
+                </div>
+
+                <div class="item-list">
+                    {% set items = digest.sections.get(section_id, []) %}
+                    {% if items %}
+                        {% for item in items %}
+                        <article class="item-card">
+                            <div class="item-card-top">
+                                <div class="item-title">
+                                    <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+                                </div>
+                                {% if item.significance %}
+                                <span class="item-significance sig-{{ item.significance }}">{{ item.significance }}</span>
+                                {% endif %}
+                            </div>
+                            {% if item.summary %}
+                            <div class="item-summary">{{ item.summary }}</div>
+                            {% endif %}
+                            <div class="item-meta">
+                                <span class="item-source">{{ item.source }}</span>
+                                <span>→ Primary source</span>
+                            </div>
+                        </article>
+                        {% endfor %}
+                    {% else %}
+                        <div class="empty-section">No significant developments in this category today.</div>
+                    {% endif %}
+                </div>
+            </section>
+            {% endfor %}
+        </main>
+
+        <!-- ===== OUTLOOK ===== -->
+        <div class="outlook-section reveal">
+            <div class="outlook-label">Infrastructure Outlook — Week Ahead</div>
+            <div class="outlook-text">{{ digest.outlook }}</div>
+        </div>
+
+        <!-- ===== FOOTER ===== -->
+        <footer class="digest-footer">
+            <div class="footer-brand">Global Infrastructure Intelligence</div>
+            <div class="footer-disclaimer">
+                This is an automated intelligence digest, not journalism. All items link to primary sources.
+                Generated by AI from {{ total_sources }}+ public sources. Verify before acting on any information.
+                Built on open-source infrastructure — GitHub Actions + GitHub Pages.
+            </div>
+            <div class="footer-stats">
+                <span><span class="stat-value">{{ total_sources }}</span> sources</span>
+                <span><span class="stat-value">6</span> domains</span>
+                <span><span class="stat-value">Daily</span> at 06:30 ET</span>
+                <span><span class="stat-value">Free</span> & open</span>
+            </div>
+            <div class="footer-links">
+                <a href="https://github.com/politico94/global-infra-digest">GitHub</a>
+                <a href="https://politico94.github.io/us-canada-trade-digest">Trade Digest</a>
+                <a href="https://politico94.github.io/ai-governance-digest">AI Governance Digest</a>
+            </div>
+        </footer>
+
+    </div>
+
+    <!-- ===== SCROLL REVEAL ===== -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('visible');
+                    }
+                });
+            }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+
+            document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+        });
+    </script>
+</body>
+</html>

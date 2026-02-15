@@ -1,0 +1,581 @@
+# ============================================================
+# Global Infrastructure Intelligence Digest — Source Registry
+# Center of Excellence: Policy, Finance & Delivery
+# ============================================================
+
+metadata:
+  version: "1.0"
+  total_sources: 85
+  last_updated: "2025-02-14"
+  categories: 8
+
+# ----------------------------------------------------------
+# 1. MULTILATERAL & DEVELOPMENT FINANCE
+# ----------------------------------------------------------
+multilateral:
+  label: "Multilateral & Development Finance"
+  icon: "🌐"
+  sources:
+    - name: "World Bank - Infrastructure"
+      url: "https://www.worldbank.org/en/topic/infrastructure"
+      feed: "https://blogs.worldbank.org/en/ppps/rss.xml"
+      type: rss
+      tier: 1
+
+    - name: "IFC - Infrastructure"
+      url: "https://www.ifc.org/en/what-we-do/sector-expertise/infrastructure"
+      feed: "https://pressroom.ifc.org/all/pages/RSS.aspx"
+      type: rss
+      tier: 1
+
+    - name: "Asian Development Bank"
+      url: "https://www.adb.org/sectors/transport"
+      feed: "https://www.adb.org/news/rss"
+      type: rss
+      tier: 1
+
+    - name: "African Development Bank"
+      url: "https://www.afdb.org/en/topics-and-sectors/sectors/infrastructure-and-urban-development"
+      feed: "https://www.afdb.org/en/rss-feeds"
+      type: rss
+      tier: 2
+
+    - name: "AIIB - Asian Infrastructure Investment Bank"
+      url: "https://www.aiib.org/en/news-events/news/index.html"
+      feed: "https://www.aiib.org/en/news-events/_rss/index.html"
+      type: rss
+      tier: 1
+
+    - name: "European Investment Bank"
+      url: "https://www.eib.org/en/projects/sectors/transport/index.htm"
+      feed: "https://www.eib.org/en/rss/press.rss"
+      type: rss
+      tier: 1
+
+    - name: "EBRD"
+      url: "https://www.ebrd.com/infrastructure.html"
+      feed: "https://www.ebrd.com/rss/news.xml"
+      type: rss
+      tier: 2
+
+    - name: "New Development Bank (BRICS)"
+      url: "https://www.ndb.int/projects/"
+      type: scrape
+      tier: 2
+
+    - name: "OECD Infrastructure"
+      url: "https://www.oecd.org/en/topics/sub-issues/infrastructure-investment-and-governance.html"
+      type: scrape
+      tier: 1
+
+    - name: "G20 Infrastructure Working Group"
+      url: "https://www.g20.org/"
+      type: scrape
+      tier: 2
+
+    - name: "Global Infrastructure Hub"
+      url: "https://www.gihub.org/"
+      feed: "https://www.gihub.org/feed/"
+      type: rss
+      tier: 1
+
+    - name: "UN-Habitat"
+      url: "https://unhabitat.org/topic/infrastructure"
+      feed: "https://unhabitat.org/feed"
+      type: rss
+      tier: 2
+
+# ----------------------------------------------------------
+# 2. MAJOR ECONOMIES — UNITED STATES
+# ----------------------------------------------------------
+united_states:
+  label: "United States"
+  icon: "🇺🇸"
+  sources:
+    - name: "US DOT - Department of Transportation"
+      url: "https://www.transportation.gov/"
+      feed: "https://www.transportation.gov/rss/press-releases"
+      type: rss
+      tier: 1
+
+    - name: "Federal Highway Administration"
+      url: "https://www.fhwa.dot.gov/"
+      feed: "https://www.fhwa.dot.gov/pressroom/rss/pressreleases.xml"
+      type: rss
+      tier: 2
+
+    - name: "US EPA - Water Infrastructure"
+      url: "https://www.epa.gov/infrastructure"
+      type: scrape
+      tier: 2
+
+    - name: "Army Corps of Engineers"
+      url: "https://www.usace.army.mil/Media/News/"
+      feed: "https://www.usace.army.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=543&max=20"
+      type: rss
+      tier: 2
+
+    - name: "White House - Infrastructure"
+      url: "https://www.whitehouse.gov/infrastructure/"
+      type: scrape
+      tier: 1
+
+    - name: "Build America Bureau"
+      url: "https://www.transportation.gov/buildamerica"
+      type: scrape
+      tier: 2
+
+    - name: "Brookings Metro"
+      url: "https://www.brookings.edu/topic/metropolitan-policy/"
+      feed: "https://www.brookings.edu/topic/metropolitan-policy/feed/"
+      type: rss
+      tier: 1
+
+    - name: "Eno Center for Transportation"
+      url: "https://enotrans.org/"
+      feed: "https://enotrans.org/feed/"
+      type: rss
+      tier: 2
+
+    - name: "ASCE Infrastructure Report Card"
+      url: "https://infrastructurereportcard.org/"
+      type: scrape
+      tier: 2
+
+    - name: "Reason Foundation - Infrastructure"
+      url: "https://reason.org/topics/infrastructure/"
+      feed: "https://reason.org/topics/infrastructure/feed/"
+      type: rss
+      tier: 3
+
+# ----------------------------------------------------------
+# 3. MAJOR ECONOMIES — EUROPE & UK
+# ----------------------------------------------------------
+europe_uk:
+  label: "Europe & United Kingdom"
+  icon: "🇪🇺"
+  sources:
+    - name: "UK National Infrastructure Commission"
+      url: "https://nic.org.uk/"
+      feed: "https://nic.org.uk/feed/"
+      type: rss
+      tier: 1
+
+    - name: "UK Infrastructure & Projects Authority"
+      url: "https://www.gov.uk/government/organisations/infrastructure-and-projects-authority"
+      feed: "https://www.gov.uk/government/organisations/infrastructure-and-projects-authority.atom"
+      type: rss
+      tier: 1
+
+    - name: "European Commission - TEN-T"
+      url: "https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment/trans-european-transport-network-ten-t_en"
+      type: scrape
+      tier: 1
+
+    - name: "European Commission - InvestEU"
+      url: "https://investeu.europa.eu/index_en"
+      type: scrape
+      tier: 2
+
+    - name: "Bruegel - Infrastructure"
+      url: "https://www.bruegel.org/"
+      feed: "https://www.bruegel.org/rss.xml"
+      type: rss
+      tier: 2
+
+    - name: "Infrastructure Intelligence (UK)"
+      url: "https://www.infrastructure-intelligence.com/"
+      feed: "https://www.infrastructure-intelligence.com/feed"
+      type: rss
+      tier: 2
+
+    - name: "New Civil Engineer (UK)"
+      url: "https://www.newcivilengineer.com/"
+      feed: "https://www.newcivilengineer.com/feed/"
+      type: rss
+      tier: 2
+
+    - name: "France - Agence Nationale de la Cohésion des Territoires"
+      url: "https://agence-cohesion-territoires.gouv.fr/"
+      type: scrape
+      tier: 3
+
+    - name: "Germany - BMVI (Transport & Digital Infrastructure)"
+      url: "https://bmdv.bund.de/EN/"
+      type: scrape
+      tier: 2
+
+# ----------------------------------------------------------
+# 4. MAJOR ECONOMIES — ASIA-PACIFIC
+# ----------------------------------------------------------
+asia_pacific:
+  label: "Asia-Pacific"
+  icon: "🌏"
+  sources:
+    - name: "Infrastructure Australia"
+      url: "https://www.infrastructureaustralia.gov.au/"
+      feed: "https://www.infrastructureaustralia.gov.au/feed"
+      type: rss
+      tier: 1
+
+    - name: "Infrastructure Partnerships Australia"
+      url: "https://infrastructure.org.au/"
+      type: scrape
+      tier: 2
+
+    - name: "India - National Infrastructure Pipeline"
+      url: "https://indiainvestmentgrid.gov.in/"
+      type: scrape
+      tier: 1
+
+    - name: "India - Gati Shakti"
+      url: "https://pmgatishakti.gov.in/"
+      type: scrape
+      tier: 2
+
+    - name: "India - NITI Aayog Infrastructure"
+      url: "https://www.niti.gov.in/infrastructure"
+      type: scrape
+      tier: 2
+
+    - name: "China Belt and Road Portal"
+      url: "https://eng.yidaiyilu.gov.cn/"
+      type: scrape
+      tier: 2
+
+    - name: "Japan - Ministry of Land, Infrastructure, Transport and Tourism"
+      url: "https://www.mlit.go.jp/en/"
+      type: scrape
+      tier: 2
+
+    - name: "South Korea - Ministry of Land, Infrastructure and Transport"
+      url: "https://www.molit.go.kr/english/"
+      type: scrape
+      tier: 3
+
+    - name: "ASEAN Infrastructure Fund"
+      url: "https://www.aseaninfrafund.com/"
+      type: scrape
+      tier: 3
+
+    - name: "Infrastructure Asia (Singapore)"
+      url: "https://www.infrastructureasia.org/"
+      type: scrape
+      tier: 2
+
+# ----------------------------------------------------------
+# 5. CANADA INFRASTRUCTURE WATCH
+# ----------------------------------------------------------
+canada:
+  label: "Canada Infrastructure Watch"
+  icon: "🇨🇦"
+  sources:
+    - name: "Infrastructure Canada"
+      url: "https://www.infrastructure.gc.ca/"
+      feed: "https://www.infrastructure.gc.ca/index-eng.rss"
+      type: rss
+      tier: 1
+
+    - name: "Canada Infrastructure Bank"
+      url: "https://cib-bic.ca/en/news-room/"
+      type: scrape
+      tier: 1
+
+    - name: "Infrastructure Ontario"
+      url: "https://www.infrastructureontario.ca/en/news/"
+      type: scrape
+      tier: 1
+
+    - name: "Parliamentary Budget Officer"
+      url: "https://www.pbo-dpb.ca/en"
+      feed: "https://www.pbo-dpb.ca/en/rss"
+      type: rss
+      tier: 1
+
+    - name: "Ontario Financial Accountability Officer"
+      url: "https://www.fao-on.org/"
+      type: scrape
+      tier: 2
+
+    - name: "C.D. Howe Institute - Infrastructure"
+      url: "https://www.cdhowe.org/topics/infrastructure"
+      type: scrape
+      tier: 1
+
+    - name: "Federation of Canadian Municipalities"
+      url: "https://fcm.ca/en/focus-areas/infrastructure"
+      type: scrape
+      tier: 2
+
+    - name: "Canadian Council for P3s"
+      url: "https://www.pppcouncil.ca/"
+      type: scrape
+      tier: 1
+
+    - name: "ReNew Canada"
+      url: "https://renewcanada.net/"
+      feed: "https://renewcanada.net/feed/"
+      type: rss
+      tier: 2
+
+    - name: "Daily Commercial News"
+      url: "https://canada.constructconnect.com/dcn/"
+      feed: "https://canada.constructconnect.com/dcn/feed"
+      type: rss
+      tier: 2
+
+    - name: "Global Affairs Canada - Trade & Infrastructure"
+      url: "https://www.international.gc.ca/"
+      type: scrape
+      tier: 2
+
+    - name: "Canada Gazette"
+      url: "https://gazette.gc.ca/rp-pr/publications-eng.html"
+      feed: "https://gazette.gc.ca/rss/part2-eng.xml"
+      type: rss
+      tier: 2
+
+# ----------------------------------------------------------
+# 6. P3s, PROJECT FINANCE & DELIVERY
+# ----------------------------------------------------------
+project_finance:
+  label: "P3s, Project Finance & Delivery Innovation"
+  icon: "🏗️"
+  sources:
+    - name: "World Bank PPP Knowledge Lab"
+      url: "https://pppknowledgelab.org/"
+      type: scrape
+      tier: 1
+
+    - name: "Global Infrastructure Investor Association"
+      url: "https://giia.net/"
+      type: scrape
+      tier: 2
+
+    - name: "IJGlobal (Public Content)"
+      url: "https://www.ijglobal.com/"
+      type: scrape
+      tier: 2
+
+    - name: "Infrastructure Investor (Public)"
+      url: "https://www.infrastructureinvestor.com/"
+      type: scrape
+      tier: 2
+
+    - name: "Preqin Infrastructure (Public)"
+      url: "https://www.preqin.com/insights/infrastructure"
+      type: scrape
+      tier: 3
+
+    - name: "KPMG Global Infrastructure"
+      url: "https://kpmg.com/xx/en/home/industries/government-public-sector/infrastructure.html"
+      type: scrape
+      tier: 2
+
+    - name: "Deloitte Infrastructure"
+      url: "https://www.deloitte.com/global/en/Industries/government-public/perspectives.html"
+      type: scrape
+      tier: 3
+
+    - name: "McKinsey Infrastructure"
+      url: "https://www.mckinsey.com/industries/public-sector/our-insights"
+      type: scrape
+      tier: 3
+
+# ----------------------------------------------------------
+# 7. CLIMATE RESILIENCE & SUSTAINABLE INFRASTRUCTURE
+# ----------------------------------------------------------
+climate_resilience:
+  label: "Climate Resilience & Sustainable Infrastructure"
+  icon: "🌱"
+  sources:
+    - name: "Climate Bonds Initiative"
+      url: "https://www.climatebonds.net/"
+      feed: "https://www.climatebonds.net/rss.xml"
+      type: rss
+      tier: 1
+
+    - name: "Global Commission on Adaptation"
+      url: "https://gca.org/"
+      type: scrape
+      tier: 2
+
+    - name: "Coalition for Climate Resilient Investment"
+      url: "https://resilientinvestment.org/"
+      type: scrape
+      tier: 2
+
+    - name: "UNEP - Sustainable Infrastructure"
+      url: "https://www.unep.org/explore-topics/green-economy"
+      type: scrape
+      tier: 2
+
+    - name: "Green Climate Fund"
+      url: "https://www.greenclimate.fund/"
+      feed: "https://www.greenclimate.fund/feed"
+      type: rss
+      tier: 2
+
+    - name: "IEA - Energy Infrastructure"
+      url: "https://www.iea.org/topics/infrastructure"
+      type: scrape
+      tier: 1
+
+    - name: "IRENA"
+      url: "https://www.irena.org/"
+      feed: "https://www.irena.org/rss"
+      type: rss
+      tier: 2
+
+    - name: "C40 Cities"
+      url: "https://www.c40.org/"
+      feed: "https://www.c40.org/feed/"
+      type: rss
+      tier: 2
+
+# ----------------------------------------------------------
+# 8. EMERGING TECH & SMART INFRASTRUCTURE
+# ----------------------------------------------------------
+smart_infra:
+  label: "Emerging Tech & Smart Infrastructure"
+  icon: "🔬"
+  sources:
+    - name: "Smart Cities World"
+      url: "https://www.smartcitiesworld.net/"
+      feed: "https://www.smartcitiesworld.net/rss"
+      type: rss
+      tier: 2
+
+    - name: "Digital Twin Consortium"
+      url: "https://www.digitaltwinconsortium.org/"
+      type: scrape
+      tier: 2
+
+    - name: "buildingSMART International (BIM)"
+      url: "https://www.buildingsmart.org/"
+      type: scrape
+      tier: 2
+
+    - name: "World Economic Forum - Infrastructure"
+      url: "https://www.weforum.org/topics/infrastructure/"
+      type: scrape
+      tier: 2
+
+    - name: "MIT Senseable City Lab"
+      url: "https://senseable.mit.edu/"
+      type: scrape
+      tier: 3
+
+    - name: "IoT Analytics - Smart Infrastructure"
+      url: "https://iot-analytics.com/"
+      type: scrape
+      tier: 3
+
+# ----------------------------------------------------------
+# KEYWORD FILTERS
+# ----------------------------------------------------------
+keywords:
+  primary:
+    - infrastructure
+    - public-private partnership
+    - PPP
+    - P3
+    - concession
+    - procurement
+    - megaproject
+    - transit
+    - transportation
+    - highway
+    - railway
+    - bridge
+    - tunnel
+    - water treatment
+    - wastewater
+    - broadband
+    - energy grid
+    - power plant
+    - renewable energy infrastructure
+    - port
+    - airport
+    - hospital construction
+    - school construction
+    - social infrastructure
+    - green bond
+    - infrastructure bond
+    - project finance
+    - infrastructure fund
+    - asset recycling
+    - lifecycle cost
+    - asset management
+    - design-build
+    - construction
+    - engineering
+    - digital twin
+    - BIM
+    - smart city
+    - resilience
+    - adaptation
+    - climate infrastructure
+    - net zero building
+    - infrastructure gap
+    - infrastructure deficit
+    - capital plan
+    - infrastructure investment
+
+  secondary:
+    - toll road
+    - light rail
+    - subway
+    - freight corridor
+    - logistics hub
+    - special economic zone
+    - industrial park
+    - dam
+    - levee
+    - flood protection
+    - stormwater
+    - fiber optic
+    - 5G infrastructure
+    - EV charging
+    - hydrogen infrastructure
+    - carbon capture
+    - modular construction
+    - prefabrication
+    - construction technology
+    - ConTech
+    - InfraTech
+    - GovTech
+
+# ----------------------------------------------------------
+# DIGEST SECTIONS (output structure)
+# ----------------------------------------------------------
+sections:
+  - id: multilateral_finance
+    title: "Multilateral & Development Finance"
+    description: "World Bank, MDBs, G20, and global infrastructure governance"
+    icon: "🌐"
+
+  - id: major_economies
+    title: "Major Economy Infrastructure Policy"
+    description: "US, EU, UK, China, India, Australia, Japan — national programs and policy shifts"
+    icon: "🏛️"
+
+  - id: canada_watch
+    title: "Canada Infrastructure Watch"
+    description: "Federal, provincial, and municipal infrastructure developments"
+    icon: "🇨🇦"
+
+  - id: project_finance_delivery
+    title: "P3s, Project Finance & Delivery"
+    description: "Procurement models, deal flow, alternative delivery, and innovation"
+    icon: "🏗️"
+
+  - id: climate_sustainability
+    title: "Climate Resilience & Sustainable Infrastructure"
+    description: "Green bonds, adaptation, net-zero standards, and nature-based solutions"
+    icon: "🌱"
+
+  - id: tech_innovation
+    title: "Emerging Tech & Smart Infrastructure"
+    description: "Digital twins, BIM, AI/IoT, smart cities, and construction technology"
+    icon: "🔬"
