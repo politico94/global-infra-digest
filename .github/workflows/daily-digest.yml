@@ -1,0 +1,47 @@
+name: Daily Global Infrastructure Digest
+
+on:
+  schedule:
+    # 6:30 AM ET = 11:30 UTC (or 10:30 UTC during DST)
+    - cron: '30 11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  build-digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        run: python pipeline.py
+
+      - name: Commit digest
+        run: |
+          git config user.name "Infrastructure Digest Bot"
+          git config user.email "actions@github.com"
+          git add output/ archive/
+          git commit -m "Global infra digest $(date +%Y-%m-%d)" || echo "No changes"
+          git push
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          keep_files: true
