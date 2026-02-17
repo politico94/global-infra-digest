@@ -1,0 +1,354 @@
+{
+  "date": "2026-02-17",
+  "pulse": "Today's digest tracks 47 developments across 6 domains. Key developments include: Leeds and WSP extend long-running highways and transport partnership; Explore water infrastructure investments. Coverage spans multilateral development finance, major economy infrastructure policy, Canadian infrastructure, and project finance and delivery.",
+  "outlook": "Broad coverage across all six domains today suggests an active policy week ahead. Monitor multilateral announcements and national budget developments for signals on infrastructure spending trajectories. Subscribe via RSS or bookmark this page for tomorrow's edition.",
+  "sections": {
+    "multilateral_finance": [
+      {
+        "title": "Transparency & Reporting",
+        "url": "https://www.ndb.int/governance/transparency-reporting/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Corporate Procurement",
+        "url": "https://www.ndb.int/procurement-opportunities/corporate-procurement/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Delhi-Ghaziabad-Meerut Regional Rapid Transit System Project",
+        "url": "https://www.ndb.int/project/india-delhi-ghaziabad-meerut-regional-rapid-transit-system-rrts-project/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "major_economies": [
+      {
+        "title": "Leeds and WSP extend long-running highways and transport partnership",
+        "url": "https://www.newcivilengineer.com/latest/leeds-and-wsp-extend-long-running-highways-and-transport-partnership-17-02-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "Leeds City Council has extended its contract with engineering consultancy WSP for a further four years, maintaining the firm\u2019s role in delivering the city\u2019s highways and transport services. The post Leeds and WSP extend long-running highways and transport partnership appeared first on New Civil\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "Explore water infrastructure investments",
+        "url": "https://www.epa.gov/infrastructure/water-infrastructure-investments",
+        "source": "US EPA - Water Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Sustainable transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/sustainable-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Investment",
+        "url": "https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Transport of dangerous goods",
+        "url": "https://transport.ec.europa.eu/transport-themes/transport-dangerous-goods_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Logistics and multimodal transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Social issues, equality and attractiveness of the transport sector",
+        "url": "https://transport.ec.europa.eu/transport-themes/social-issues-equality-and-attractiveness-transport-sector_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "EU Mobility & Transport achievements 2019-2024",
+        "url": "https://transport.ec.europa.eu/transport-themes/eu-mobility-transport-achievements-2019-2024_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Signed the Memorandum of Cooperation with the Ministry of Transport of the Kingdom of Thailand in the field of railways and urban development!(2025/04/30)",
+        "url": "https://www.mlit.go.jp/en/report/press/tetsudo06_hh_000004.html",
+        "source": "Japan - Ministry of Land, Infrastructure, Transport and Tourism",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Ministry of Land,Infrastructure and Transport",
+        "url": "https://www.molit.go.kr/english/intro.do",
+        "source": "South Korea - Ministry of Land, Infrastructure and Transport",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "canada_watch": [
+      {
+        "title": "$1B+Gordie Howe International  Bridge: First Binational P3Location:Windsor, Ontario-Detroit, MichiganStatus:Under ConstructionValue of Partnership:$6.4 billion*Type of P3:DBFOMHandback:2054arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/gordie-howe-international-bridge-first-binational-p3",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "$100M to $499MIqaluit International: First Arctic Airport P3Location: NunavutStatus: OperationalType of P3: DBFOMValue of Partnership: $418.9 millionHandback: 2050arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/iqaluit-international-first-airport-p3",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationConfederation Bridge: Canada's first P3 to openConfederation BridgeLocation: Prince Edward Island \u2013 New BrunswickStatus: In operation since 1997Value of Partnership: $1.5BType of P3: Design-Build-Finance-Maintain-OperateHandback/P3 Agreement Ends: 2032arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/confederation-bridge",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Transportation",
+        "url": "https://www.fao-on.org/topic/infrastructure-and-transportation",
+        "source": "Ontario Financial Accountability Officer",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationBruce Power: Canada's largest P3Location: OntarioStatus:\u00a0In operation since 2001Type of P3: Design-Build-Finance-Maintain-OperateValue of Partnership: $10BHandback/P3 Agreement Ends: 2044arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/bruce-power-bfdf548f5b9370b5af962d9c011bba91",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "GHD awarded two Canadian defence contracts worth up to $315 million",
+        "url": "https://canada.constructconnect.com/dcn/news/economic/2026/02/ghd-awarded-two-canadian-defence-contracts-worth-up-to-315-million",
+        "source": "Daily Commercial News",
+        "summary": "OTTAWA \u2013 Professional services company GHD recently announced it has been selected by Defence Construction Canada (DCC) for two standing supply arrangements supporting the Department of National Defence across Canada. The contracts include a national multi-disciplinary architectural and engineering\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Consortium Components",
+        "url": "https://www.pppcouncil.ca/why-p3s/p3-components",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Training & Certification",
+        "url": "https://www.pppcouncil.ca/events/find-p3-training",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Why You Should Consider a P3",
+        "url": "https://www.pppcouncil.ca/why-p3s",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Graphic Intelligence",
+        "url": "https://cdhowe.org/graphic-intelligence/",
+        "source": "C.D. Howe Institute - Infrastructure",
+        "summary": "",
+        "significance": "high"
+      }
+    ],
+    "project_finance_delivery": [
+      {
+        "title": "Partner oppportunities",
+        "url": "https://www.infrastructureinvestor.com/sponsorship-opportunities-pei/",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure & transport",
+        "url": "https://kpmg.com/xx/en/what-we-do/industries/infrastructure.html",
+        "source": "KPMG Global Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Invest in Infrastructure",
+        "url": "https://giia.net/about/invest-in-infrastructure",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Investor Perspectives portal",
+        "url": "https://www.infrastructureinvestor.com/lp-perspectives-portal/",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Infrastructure Investor 100",
+        "url": "https://www.infrastructureinvestor.com/infrastructure-investor-100/",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Infrastructure Debt 30",
+        "url": "https://www.infrastructureinvestor.com/top-infrastructure-debt-fund-managers/",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Infrastructure Investor awards",
+        "url": "https://www.infrastructureinvestor.com/infrastructure-investor-awards/",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Digital infrastructure",
+        "url": "https://www.infrastructureinvestor.com/sectors/digital-infrastructure/",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "About Infrastructure Investor",
+        "url": "https://www.infrastructureinvestor.com/about-infrastructure-investor/",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Engineering, AI & Data",
+        "url": "https://www.deloitte.com/global/en/services/consulting/services/engineering-ai-data.html?icid=top_core-business-operations",
+        "source": "Deloitte Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "climate_sustainability": [
+      {
+        "title": "13 February 2026France\u00a0Reaffirms\u00a0Support to\u00a0Africa\u2019s Flagship Climate Adaptation Program AAAP 2.0",
+        "url": "https://gca.org/news/france-reaffirms-support-to-africas-flagship-climate-adaptation-program-aaap-2-0/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Adaptation Results Dashboard",
+        "url": "https://gca.org/gca-project-portal/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Global Hub on Locally Led Adaptation",
+        "url": "https://llahub.gca.org/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Africa Business Adaptation Platform",
+        "url": "https://gca.org/africa-business-adaptation-platform/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Infrastructure & Nature-based Solutions (NbS)",
+        "url": "https://gca.org/programs/infrastructure-and-nbs/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Climate Adaptation Finance",
+        "url": "https://gca.org/programs/climate-finance/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Youth Entrepreneurship and Adaptation Jobs",
+        "url": "https://gca.org/programs/youth/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Locally Led Adaptation",
+        "url": "https://gca.org/programs/locally-led-adaptation/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Water & Urban Resilience",
+        "url": "https://gca.org/programs/water/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "KenyaSecond Kenya Urban Support Program",
+        "url": "https://gca.org/gca-project/wbg-second-kenya-urban-support-program/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "tech_innovation": [
+      {
+        "title": "BIM Collaboration Format (BCF)",
+        "url": "https://www.buildingsmart.org/standards/bsi-standards/bim-collaboration-format/",
+        "source": "buildingSMART International (BIM)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "IFC Ports and Waterways",
+        "url": "https://www.buildingsmart.org/standards/domains/infrastructure/ifc-for-ports-waterways/",
+        "source": "buildingSMART International (BIM)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "openBIM for the Water Sector",
+        "url": "https://www.buildingsmart.org/standards/calls-for-participation/openbim-for-the-water-sector/",
+        "source": "buildingSMART International (BIM)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "OT Cybersecurity Insights Report 2026Subscribers exclusive",
+        "url": "https://iot-analytics.com/product/ot-cybersecurity-insights-report-2026/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      }
+    ]
+  },
+  "stats": {
+    "raw_items": 281,
+    "filtered": 88,
+    "unique": 88,
+    "published": 47
+  }
+}
