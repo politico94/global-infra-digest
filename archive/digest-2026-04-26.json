@@ -1,0 +1,410 @@
+{
+  "date": "2026-04-26",
+  "pulse": "Today's digest tracks 55 developments across 6 domains. Key developments include: Infrastructure FinanceLearningIFL; World Bank Group's Role in PPPs. Coverage spans multilateral development finance, major economy infrastructure policy, Canadian infrastructure, and project finance and delivery.",
+  "outlook": "Broad coverage across all six domains today suggests an active policy week ahead. Monitor multilateral announcements and national budget developments for signals on infrastructure spending trajectories. Subscribe via RSS or bookmark this page for tomorrow's edition.",
+  "sections": {
+    "multilateral_finance": [
+      {
+        "title": "Infrastructure FinanceLearningIFL",
+        "url": "https://pppknowledgelab.org/infrastructure-finance-learning",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "World Bank Group's Role in PPPs",
+        "url": "https://pppknowledgelab.org/world-bank-group-s-role-ppps",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure Finance",
+        "url": "https://pppknowledgelab.org/infrastructure-finance",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Transparency & Reporting",
+        "url": "https://www.ndb.int/governance/transparency-reporting/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Corporate Procurement",
+        "url": "https://www.ndb.int/procurement-opportunities/corporate-procurement/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Individual Consulting Opportunities",
+        "url": "https://individualconsultant.ndb.int/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Frequently Asked Questions (FAQ)",
+        "url": "https://pppknowledgelab.org/faqs",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Selected World Bank Tools",
+        "url": "https://pppknowledgelab.org/selected-world-bank-tools",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Sector Specific Toolkits",
+        "url": "https://pppknowledgelab.org/sector-specific-toolkits",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Subject Specific Toolkits",
+        "url": "https://pppknowledgelab.org/subject-specific-toolkits",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      }
+    ],
+    "major_economies": [
+      {
+        "title": "Explore water infrastructure investments",
+        "url": "https://www.epa.gov/infrastructure/water-infrastructure-investments",
+        "source": "US EPA - Water Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Sustainable transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/sustainable-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Investment",
+        "url": "https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Transport of dangerous goods",
+        "url": "https://transport.ec.europa.eu/transport-themes/transport-dangerous-goods_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Logistics and multimodal transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Social issues, equality and attractiveness of the transport sector",
+        "url": "https://transport.ec.europa.eu/transport-themes/social-issues-equality-and-attractiveness-transport-sector_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "EU Mobility & Transport achievements 2019-2024",
+        "url": "https://transport.ec.europa.eu/transport-themes/eu-mobility-transport-achievements-2019-2024_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "InvestEU: EIB Advisory Supports Greece in strengthening energy resilience of military installations",
+        "url": "https://www.eib.org/en/press/all/2026-131-eib-advisory-supports-greece-in-strengthening-energy-resilience-of-military-installations",
+        "source": "European Commission - InvestEU",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Signed the Memorandum of Cooperation with the Ministry of Transport of the Kingdom of Thailand in the field of railways and urban development!(2025/04/30)",
+        "url": "https://www.mlit.go.jp/en/report/press/tetsudo06_hh_000004.html",
+        "source": "Japan - Ministry of Land, Infrastructure, Transport and Tourism",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "EU-Ukraine Solidarity Lanes",
+        "url": "https://transport.ec.europa.eu/ukraine/eu-ukraine-solidarity-lanes_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      }
+    ],
+    "canada_watch": [
+      {
+        "title": "$1B+Gordie Howe International  Bridge: First Binational P3Location:Windsor, Ontario-Detroit, MichiganStatus:Under ConstructionValue of Partnership:$6.4 billion*Type of P3:DBFOMHandback:2054arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/gordie-howe-international-bridge-first-binational-p3",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "$100M to $499MIqaluit International: First Arctic Airport P3Location: NunavutStatus: OperationalType of P3: DBFOMValue of Partnership: $418.9 millionHandback: 2050arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/iqaluit-international-first-airport-p3",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationConfederation Bridge: Canada's first P3 to openConfederation BridgeLocation: Prince Edward Island \u2013 New BrunswickStatus: In operation since 1997Value of Partnership: $1.5BType of P3: Design-Build-Finance-Maintain-OperateHandback/P3 Agreement Ends: 2032arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/confederation-bridge",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Transportation",
+        "url": "https://www.fao-on.org/topic/infrastructure-and-transportation",
+        "source": "Ontario Financial Accountability Officer",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationBruce Power: Canada's largest P3Location: OntarioStatus:\u00a0In operation since 2001Type of P3: Design-Build-Finance-Maintain-OperateValue of Partnership: $10BHandback/P3 Agreement Ends: 2044arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/bruce-power-bfdf548f5b9370b5af962d9c011bba91",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Consortium Components",
+        "url": "https://www.pppcouncil.ca/why-p3s/p3-components",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Training & Certification",
+        "url": "https://www.pppcouncil.ca/events/find-p3-training",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "B.C. announces completion of Dewdney Bridge replacement project",
+        "url": "https://www.renewcanada.net/b-c-announces-completion-of-dewdney-bridge-replacement-project/",
+        "source": "ReNew Canada",
+        "summary": "The British Columbia Government announced the completion of the Dewdney Bridge replacement project on Highway 7 east of Mission on the highway corridor\u00a0in the Fraser Valley. \u201cThis new bridge is [\u2026]",
+        "significance": "high"
+      },
+      {
+        "title": "Yukon to advance Whitehorse hospital expansion project",
+        "url": "https://www.renewcanada.net/yukon-to-advance-whitehorse-hospital-expansion-project/",
+        "source": "ReNew Canada",
+        "summary": "The Yukon government announced it is increasing funding for the Yukon Hospital Corporation in 2026\u201327 to address cost pressures and increased patient volume, and support ongoing infrastructure planning, including $4.1 [\u2026]",
+        "significance": "high"
+      },
+      {
+        "title": "Graphic Intelligence",
+        "url": "https://cdhowe.org/graphic-intelligence/",
+        "source": "C.D. Howe Institute - Infrastructure",
+        "summary": "",
+        "significance": "high"
+      }
+    ],
+    "project_finance_delivery": [
+      {
+        "title": "Public-Private PartnershipResource CenterPPPRC",
+        "url": "https://pppknowledgelab.org/",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "About PPP Resource Center",
+        "url": "https://pppknowledgelab.org/about-ppp-resource-center",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "About Public-Private Partnerships",
+        "url": "https://pppknowledgelab.org/about-public-private-partnerships",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Partner oppportunities",
+        "url": "https://www.infrastructureinvestor.com/sponsorship-opportunities-pei/",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure & transport",
+        "url": "https://kpmg.com/xx/en/what-we-do/industries/infrastructure.html",
+        "source": "KPMG Global Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Risk Allocation & Management",
+        "url": "https://pppknowledgelab.org/risk-allocation-management",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Invest in infrastructure",
+        "url": "https://giia.net/about/invest-in-infrastructure/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Australia remains attractive for infrastructure capital, but delivery risk is now the key constraint",
+        "url": "https://giia.net/insights/australia-remains-attractive-for-infrastructure-capital/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Understanding the Infrastructure Market in India",
+        "url": "https://giia.net/insights/understanding-the-infrastructure-market-in-india/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Maryland Demonstrates How States Can Lead the Way for P3 Success",
+        "url": "https://giia.net/news/maryland-demonstrates-how-states-can-lead-the-way-for-p3-success/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "climate_sustainability": [
+      {
+        "title": "Adaptation Results Dashboard",
+        "url": "https://gca.org/gca-project-portal/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Global Hub on Locally Led Adaptation",
+        "url": "https://llahub.gca.org/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Africa Business Adaptation Platform",
+        "url": "https://gca.org/africa-business-adaptation-platform/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Infrastructure & Nature-based Solutions (NbS)",
+        "url": "https://gca.org/programs/infrastructure-and-nbs/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Climate Adaptation Finance",
+        "url": "https://gca.org/programs/climate-finance/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Youth Entrepreneurship and Adaptation Jobs",
+        "url": "https://gca.org/programs/youth/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Locally Led Adaptation",
+        "url": "https://gca.org/programs/locally-led-adaptation/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Water & Urban Resilience",
+        "url": "https://gca.org/programs/water/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "KenyaSecond Kenya Urban Support Program",
+        "url": "https://gca.org/gca-project/wbg-second-kenya-urban-support-program/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "9 March 2026New GCA Chair President Ameenah Gurib-Fakim to Advance Global Adaptation Agenda",
+        "url": "https://gca.org/news/new-gca-chair-president-ameenah-gurib-fakim-to-advance-global-adaptation-agenda/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "tech_innovation": [
+      {
+        "title": "BIM Collaboration Format (BCF)",
+        "url": "https://www.buildingsmart.org/standards/bsi-standards/bim-collaboration-format/",
+        "source": "buildingSMART International (BIM)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "IFC Ports and Waterways",
+        "url": "https://www.buildingsmart.org/standards/domains/infrastructure/ifc-for-ports-waterways/",
+        "source": "buildingSMART International (BIM)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Data Center Trends Report 2026From$600.00",
+        "url": "https://iot-analytics.com/product/data-center-trends-report-2026/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Quarterly trend report: What CEOs talked about in Q1 2026Subscriber exclusive",
+        "url": "https://iot-analytics.com/product/quarterly-trend-report-what-ceos-talked-about-in-q1-2026/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Industry 4.0 & Smart Manufacturing Market Report 2026\u20132030From$5,000.00",
+        "url": "https://iot-analytics.com/product/industry-4-0-smart-manufacturing-report-2026-2030/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      }
+    ]
+  },
+  "stats": {
+    "raw_items": 309,
+    "filtered": 103,
+    "unique": 103,
+    "published": 55
+  }
+}
