@@ -1,0 +1,374 @@
+{
+  "date": "2026-05-20",
+  "pulse": "Today's digest tracks 50 developments across 5 domains. Key developments include: Infrastructure FinanceLearningIFL; World Bank Group's Role in PPPs. Coverage spans multilateral development finance, major economy infrastructure policy, Canadian infrastructure, and project finance and delivery.",
+  "outlook": "Broad coverage across all six domains today suggests an active policy week ahead. Monitor multilateral announcements and national budget developments for signals on infrastructure spending trajectories. Subscribe via RSS or bookmark this page for tomorrow's edition.",
+  "sections": {
+    "multilateral_finance": [
+      {
+        "title": "Infrastructure FinanceLearningIFL",
+        "url": "https://pppknowledgelab.org/infrastructure-finance-learning",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "World Bank Group's Role in PPPs",
+        "url": "https://pppknowledgelab.org/world-bank-group-s-role-ppps",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure Finance",
+        "url": "https://pppknowledgelab.org/infrastructure-finance",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Transparency & Reporting",
+        "url": "https://www.ndb.int/governance/transparency-reporting/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Corporate Procurement",
+        "url": "https://www.ndb.int/procurement-opportunities/corporate-procurement/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Individual Consulting Opportunities",
+        "url": "https://individualconsultant.ndb.int/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Frequently Asked Questions (FAQ)",
+        "url": "https://pppknowledgelab.org/faqs",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Selected World Bank Tools",
+        "url": "https://pppknowledgelab.org/selected-world-bank-tools",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Sector Specific Toolkits",
+        "url": "https://pppknowledgelab.org/sector-specific-toolkits",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Subject Specific Toolkits",
+        "url": "https://pppknowledgelab.org/subject-specific-toolkits",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      }
+    ],
+    "major_economies": [
+      {
+        "title": "How poor ground conditions influenced the design of Amids South\u2019s 93m-long bridge",
+        "url": "https://www.newcivilengineer.com/in-depth/how-poor-ground-conditions-influenced-the-design-of-amids-souths-93m-long-bridge-20-05-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "A 93m-long bridge crossing the White Cart Water is the centrepiece of the Amids South project, which aims to boost the local economy by improving transport links between an industrial area, Paisley town centre and Glasgow Airport. The post How poor ground conditions influenced the design of Amids\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "Explore water infrastructure investments",
+        "url": "https://www.epa.gov/infrastructure/water-infrastructure-investments",
+        "source": "US EPA - Water Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Sustainable transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/sustainable-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Investment",
+        "url": "https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Transport of dangerous goods",
+        "url": "https://transport.ec.europa.eu/transport-themes/transport-dangerous-goods_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Logistics and multimodal transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Social issues, equality and attractiveness of the transport sector",
+        "url": "https://transport.ec.europa.eu/transport-themes/social-issues-equality-and-attractiveness-transport-sector_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "EU Mobility & Transport achievements 2019-2024",
+        "url": "https://transport.ec.europa.eu/transport-themes/eu-mobility-transport-achievements-2019-2024_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "NCE Airports Awards 2026: Winners revealed",
+        "url": "https://www.newcivilengineer.com/archive/nce-airports-awards-2026-winners-revealed-20-05-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "Yesterday (19 May) saw the first ever NCE Airports Conference & Awards. The post NCE Airports Awards 2026: Winners revealed appeared first on New Civil Engineer .",
+        "significance": "high"
+      },
+      {
+        "title": "Heathrow early careers innovation competition winner named",
+        "url": "https://www.newcivilengineer.com/uncategorized/heathrow-early-careers-innovation-competition-winner-named-19-05-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "Heathrow Airport has announced the winner of its early careers innovation competition, run in collaboration with NCE. The post Heathrow early careers innovation competition winner named appeared first on New Civil Engineer .",
+        "significance": "high"
+      }
+    ],
+    "canada_watch": [
+      {
+        "title": "$1B+Gordie Howe International  Bridge: First Binational P3Location:Windsor, Ontario-Detroit, MichiganStatus:Under ConstructionValue of Partnership:$6.4 billion*Type of P3:DBFOMHandback:2054arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/gordie-howe-international-bridge-first-binational-p3",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "$100M to $499MIqaluit International: First Arctic Airport P3Location: NunavutStatus: OperationalType of P3: DBFOMValue of Partnership: $418.9 millionHandback: 2050arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/iqaluit-international-first-airport-p3",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationConfederation Bridge: Canada's first P3 to openConfederation BridgeLocation: Prince Edward Island \u2013 New BrunswickStatus: In operation since 1997Value of Partnership: $1.5BType of P3: Design-Build-Finance-Maintain-OperateHandback/P3 Agreement Ends: 2032arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/confederation-bridge",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Expansion project at Edmonton Airport to expand supply chain capacity",
+        "url": "https://www.renewcanada.net/expansion-project-at-edmonton-airport-to-expand-supply-chain-capacity/",
+        "source": "ReNew Canada",
+        "summary": "Transportation Canada, along with the Edmonton International Airport marked the groundbreaking of the International Cargo Hub, which will increase airfield infrastructure, expand Canada\u2019s supply chain capacity and strengthen trade corridors, [\u2026]",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Transportation",
+        "url": "https://www.fao-on.org/topic/infrastructure-and-transportation",
+        "source": "Ontario Financial Accountability Officer",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationBruce Power: Canada's largest P3Location: OntarioStatus:\u00a0In operation since 2001Type of P3: Design-Build-Finance-Maintain-OperateValue of Partnership: $10BHandback/P3 Agreement Ends: 2044arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/bruce-power-bfdf548f5b9370b5af962d9c011bba91",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Toronto island airport expansion would lead to severe traffic, committee hears",
+        "url": "https://canada.constructconnect.com/dcn/news/infrastructure/2026/05/toronto-island-airport-expansion-would-lead-to-severe-traffic-committee-hears",
+        "source": "Daily Commercial News",
+        "summary": "TORONTO \u2014 Toronto\u2019s waterfront secretariat says the province\u2019s plans to redevelop Ontario Place and expand the airport on the Toronto Islands will create severe traffic and transit congestion and could lead to degradation of the water quality in the harbour. The comments were made in a committee\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Consortium Components",
+        "url": "https://www.pppcouncil.ca/why-p3s/p3-components",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Training & Certification",
+        "url": "https://www.pppcouncil.ca/events/find-p3-training",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Canada ranks as most attractive market for global infrastructure investment",
+        "url": "https://www.renewcanada.net/canada-ranks-as-most-attractive-market-for-global-infrastructure-investment/",
+        "source": "ReNew Canada",
+        "summary": "Canada has\u00a0emerged\u00a0as the most attractive market for infrastructure investment according to a poll by the Global Infrastructure Investor Association (GIIA). GIIA members\u00a0represent of\u00a0a combined almost\u00a0CA$3 trillion\u00a0in infrastructure assets under management [\u2026]",
+        "significance": "high"
+      }
+    ],
+    "project_finance_delivery": [
+      {
+        "title": "Public-Private PartnershipResource CenterPPPRC",
+        "url": "https://pppknowledgelab.org/",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "About PPP Resource Center",
+        "url": "https://pppknowledgelab.org/about-ppp-resource-center",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "About Public-Private Partnerships",
+        "url": "https://pppknowledgelab.org/about-public-private-partnerships",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "A pathway for US states to harness public-private partnerships (P3s)",
+        "url": "https://giia.net/news/harnessing-public-private-partnerships-p3s/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "United for Infrastructure launches national campaign to spotlight need for continued federal infrastructure investment",
+        "url": "https://giia.net/news/ufi-launches-national-campaign/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure & Transport",
+        "url": "https://kpmg.com/xx/en/what-we-do/industries/infrastructure.html",
+        "source": "KPMG Global Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Risk Allocation & Management",
+        "url": "https://pppknowledgelab.org/risk-allocation-management",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Invest in infrastructure",
+        "url": "https://giia.net/about/invest-in-infrastructure/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "PEI Infrastructure Investor",
+        "url": "https://www.infrastructureinvestor.com/",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "InvestorsHow Manulife\u2019s infra fund portfolio is evolvingThe insurer is focusing more on growth markets in Asia and co-investments, says funds platform lead Kate Roscoe, who would like to set up an emerging manager programme.18 May 2026 \u00b7 5 mins read",
+        "url": "https://www.infrastructureinvestor.com/how-manulifes-infra-fund-portfolio-is-evolving",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "climate_sustainability": [
+      {
+        "title": "Adaptation Results Dashboard",
+        "url": "https://gca.org/gca-project-portal/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Global Hub on Locally Led Adaptation",
+        "url": "https://llahub.gca.org/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Africa Business Adaptation Platform",
+        "url": "https://gca.org/africa-business-adaptation-platform/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Infrastructure & Nature-based Solutions (NbS)",
+        "url": "https://gca.org/programs/infrastructure-and-nbs/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Climate Adaptation Finance",
+        "url": "https://gca.org/programs/climate-finance/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Youth Entrepreneurship and Adaptation Jobs",
+        "url": "https://gca.org/programs/youth/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Locally Led Adaptation",
+        "url": "https://gca.org/programs/locally-led-adaptation/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Water & Urban Resilience",
+        "url": "https://gca.org/programs/water/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "KenyaSecond Kenya Urban Support Program",
+        "url": "https://gca.org/gca-project/wbg-second-kenya-urban-support-program/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "9 March 2026New GCA Chair President Ameenah Gurib-Fakim to Advance Global Adaptation Agenda",
+        "url": "https://gca.org/news/new-gca-chair-president-ameenah-gurib-fakim-to-advance-global-adaptation-agenda/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "tech_innovation": []
+  },
+  "stats": {
+    "raw_items": 315,
+    "filtered": 109,
+    "unique": 109,
+    "published": 50
+  }
+}
