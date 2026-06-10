@@ -1,0 +1,340 @@
+{
+  "date": "2026-06-10",
+  "pulse": "Today's digest tracks 45 developments across 6 domains. Key developments include: Docklands Light Railway extension could see construction of new Thames tunnel; Explore water infrastructure investments. Coverage spans multilateral development finance, major economy infrastructure policy, Canadian infrastructure, and project finance and delivery.",
+  "outlook": "Broad coverage across all six domains today suggests an active policy week ahead. Monitor multilateral announcements and national budget developments for signals on infrastructure spending trajectories. Subscribe via RSS or bookmark this page for tomorrow's edition.",
+  "sections": {
+    "multilateral_finance": [
+      {
+        "title": "Transparency & Reporting",
+        "url": "https://www.ndb.int/governance/transparency-reporting/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Corporate Procurement",
+        "url": "https://www.ndb.int/procurement-opportunities/corporate-procurement/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Individual Consulting Opportunities",
+        "url": "https://individualconsultant.ndb.int/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "major_economies": [
+      {
+        "title": "Docklands Light Railway extension could see construction of new Thames tunnel",
+        "url": "https://www.newcivilengineer.com/latest/docklands-light-railway-extension-could-see-construction-of-new-thames-tunnel-09-06-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "Transport for London (TfL) has launched a public consultation on detailed plans to extend the Docklands Light Railway (DLR) from Gallions Reach to Thamesmead via Beckton Riverside, marking a significant step forward for one of east London\u2019s largest transport and regeneration projects. The post\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "Explore water infrastructure investments",
+        "url": "https://www.epa.gov/infrastructure/water-infrastructure-investments",
+        "source": "US EPA - Water Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Sustainable transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/sustainable-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Investment",
+        "url": "https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Transport of dangerous goods",
+        "url": "https://transport.ec.europa.eu/transport-themes/transport-dangerous-goods_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Logistics and multimodal transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Social issues, equality and attractiveness of the transport sector",
+        "url": "https://transport.ec.europa.eu/transport-themes/social-issues-equality-and-attractiveness-transport-sector_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "EU Mobility & Transport achievements 2019-2024",
+        "url": "https://transport.ec.europa.eu/transport-themes/eu-mobility-transport-achievements-2019-2024_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Partnership streamlines site signage procurement",
+        "url": "https://www.newcivilengineer.com/latest/partnership-streamlines-site-signage-procurement-10-06-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "Civil engineering contractor Knights Brown has strengthened its long-standing partnership with signage specialist Stocksigns through the introduction of a bespoke online ordering system, designed to improve the procurement of site safety signage. The post Partnership streamlines site signage\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "Amey, Costain and Dragados secure \u00a3840M TfL infrastructure framework",
+        "url": "https://www.newcivilengineer.com/latest/amey-costain-and-dragados-secure-840m-tfl-infrastructure-framework-10-06-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "Transport for London (TfL) has appointed Amey, Costain and Dragados to a new \u00a3700M infrastructure improvement framework. The post Amey, Costain and Dragados secure \u00a3840M TfL infrastructure framework appeared first on New Civil Engineer .",
+        "significance": "high"
+      }
+    ],
+    "canada_watch": [
+      {
+        "title": "$1B+Gordie Howe International  Bridge: First Binational P3Location:Windsor, Ontario-Detroit, MichiganStatus:Under ConstructionValue of Partnership:$6.4 billion*Type of P3:DBFOMHandback:2054arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/gordie-howe-international-bridge-first-binational-p3",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "$100M to $499MIqaluit International: First Arctic Airport P3Location: NunavutStatus: OperationalType of P3: DBFOMValue of Partnership: $418.9 millionHandback: 2050arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/iqaluit-international-first-airport-p3",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationConfederation Bridge: Canada's first P3 to openConfederation BridgeLocation: Prince Edward Island \u2013 New BrunswickStatus: In operation since 1997Value of Partnership: $1.5BType of P3: Design-Build-Finance-Maintain-OperateHandback/P3 Agreement Ends: 2032arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/confederation-bridge",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Transportation",
+        "url": "https://www.fao-on.org/topic/infrastructure-and-transportation",
+        "source": "Ontario Financial Accountability Officer",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationBruce Power: Canada's largest P3Location: OntarioStatus:\u00a0In operation since 2001Type of P3: Design-Build-Finance-Maintain-OperateValue of Partnership: $10BHandback/P3 Agreement Ends: 2044arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/bruce-power-bfdf548f5b9370b5af962d9c011bba91",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "AEC Cares to renovate San Diego women\u2019s center in single-day blitz build",
+        "url": "https://canada.constructconnect.com/dcn/news/usa/2026/06/aec-cares-to-renovate-san-diego-womens-center-in-single-day-blitz-build",
+        "source": "Daily Commercial News",
+        "summary": "More than 100 volunteers from the architecture, engineering and construction industry will spend\u00a0tomorrow (June 10)\u202frenovating\u202fRachel\u2019s Women\u2019s Center in San Diego, where a single-day \u201cBlitz Build\u201d aims to create a more functional and welcoming space for women seeking stability and support.\u00a0 \u00a0 AEC\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Consortium Components",
+        "url": "https://www.pppcouncil.ca/why-p3s/p3-components",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Training & Certification",
+        "url": "https://www.pppcouncil.ca/events/find-p3-training",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Federal government starts public consultation on future of Toronto\u2019s island airport",
+        "url": "https://canada.constructconnect.com/dcn/news/government/2026/06/federal-government-starts-public-consultation-on-future-of-torontos-island-airport",
+        "source": "Daily Commercial News",
+        "summary": "Federal government starts public consultation on future of Toronto\u2019s island airport TORONTO \u2013 The federal government is starting public consultations on the fate of Toronto\u2019s island airport, which the province wants to expand to make room for jets. Ontario Premier Doug Ford\u2019s Progressive\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "Cold Formed Steel delivers resilience in the face of severe weather",
+        "url": "https://canada.constructconnect.com/dcn/news/infrastructure/2026/06/cold-formed-steel-delivers-resilience-in-the-face-of-severe-weather",
+        "source": "Daily Commercial News",
+        "summary": "More extreme weather is coming this year. The Intergovernmental Panel on Climate Change report released in 2023 predicted with a high level of confidence \u201cthe proportion of intense Tropical Cyclones (TCs), average peak TC wind speeds and peak wind speeds of the most intense TCs will increase on the\u2026",
+        "significance": "high"
+      }
+    ],
+    "project_finance_delivery": [
+      {
+        "title": "A pathway for US states to harness public-private partnerships (P3s)",
+        "url": "https://giia.net/news/harnessing-public-private-partnerships-p3s/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure & Transport",
+        "url": "https://kpmg.com/xx/en/what-we-do/industries/infrastructure.html",
+        "source": "KPMG Global Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Invest in infrastructure",
+        "url": "https://giia.net/about/invest-in-infrastructure/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Reflections on Infrastructure Week",
+        "url": "https://giia.net/insights/reflections-on-infrastructure-week/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "GIIA to Join Upcoming Global Infrastructure Dialogue 2026",
+        "url": "https://giia.net/news/giia-to-join-upcoming-global-infrastructure-dialogue-2026/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Berlin Success Transforms into \u00a375,000 Donation to\u00a0Infrastructure Industry Foundation",
+        "url": "https://giia.net/news/giia-donates-75000-to-infrastructure-industry-foundation/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "PEI Infrastructure Investor",
+        "url": "https://www.infrastructureinvestor.com/",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Plan Mexico seeks PPPs to power infra build-outIn early May, Mexico\u2019s president announced specific plans to attract private capital to invest in infra. Some investors are already interested, but how will it compete globally?5 hours ago \u00b7 7 mins read",
+        "url": "https://www.infrastructureinvestor.com/plan-mexico-seeks-ppps-to-power-infrastructure-build-out",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "InvestorsFrom capped returns to a co-investment fund, Alt\u00e9rra\u2019s $30bn climate journey is evolvingLess than three years after Alt\u00e9rra\u2019s launch at COP28, it has evolved into one of the most unique LPs in the energy transition space.4 June 2026 \u00b7 5 mins read",
+        "url": "https://www.infrastructureinvestor.com/from-capped-returns-to-a-co-investment-fund-alterras-30bn-climate-journey-is-evolving",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Engineering, AI & Data",
+        "url": "https://www.deloitte.com/global/en/services/consulting/services/engineering-ai-data.html?icid=top_core-business-operations",
+        "source": "Deloitte Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "climate_sustainability": [
+      {
+        "title": "Adaptation Results Dashboard",
+        "url": "https://gca.org/gca-project-portal/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Global Hub on Locally Led Adaptation",
+        "url": "https://llahub.gca.org/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Africa Business Adaptation Platform",
+        "url": "https://gca.org/africa-business-adaptation-platform/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Infrastructure & Nature-based Solutions (NbS)",
+        "url": "https://gca.org/programs/infrastructure-and-nbs/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Climate Adaptation Finance",
+        "url": "https://gca.org/programs/climate-finance/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Youth Entrepreneurship and Adaptation Jobs",
+        "url": "https://gca.org/programs/youth/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Locally Led Adaptation",
+        "url": "https://gca.org/programs/locally-led-adaptation/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Water & Urban Resilience",
+        "url": "https://gca.org/programs/water/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "KenyaSecond Kenya Urban Support Program",
+        "url": "https://gca.org/gca-project/wbg-second-kenya-urban-support-program/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "21 May 2026GCA CEO delivers opening remarks to the Africa Business Leadership Group on Adaptation in Kigali",
+        "url": "https://gca.org/news/gca-ceo-delivers-opening-remarks-to-the-africa-business-leadership-group-on-adaptation-in-kigali/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "tech_innovation": [
+      {
+        "title": "Smart Maintenance Trends Report 2026From$600.00",
+        "url": "https://iot-analytics.com/product/smart-maintenance-trends-report-2026/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "MWC 2026 Event ReportFrom$2,000.00",
+        "url": "https://iot-analytics.com/product/mwc-2026-event-report/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      }
+    ]
+  },
+  "stats": {
+    "raw_items": 291,
+    "filtered": 88,
+    "unique": 88,
+    "published": 45
+  }
+}
