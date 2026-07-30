@@ -1,0 +1,396 @@
+{
+  "date": "2026-07-30",
+  "pulse": "Today's digest tracks 53 developments across 6 domains. Key developments include: Infrastructure FinanceLearningIFL; World Bank Group's Role in PPPs. Coverage spans multilateral development finance, major economy infrastructure policy, Canadian infrastructure, and project finance and delivery.",
+  "outlook": "Broad coverage across all six domains today suggests an active policy week ahead. Monitor multilateral announcements and national budget developments for signals on infrastructure spending trajectories. Subscribe via RSS or bookmark this page for tomorrow's edition.",
+  "sections": {
+    "multilateral_finance": [
+      {
+        "title": "Infrastructure FinanceLearningIFL",
+        "url": "https://pppknowledgelab.org/infrastructure-finance-learning",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "World Bank Group's Role in PPPs",
+        "url": "https://pppknowledgelab.org/world-bank-group-s-role-ppps",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure Finance",
+        "url": "https://pppknowledgelab.org/infrastructure-finance",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Transparency & Reporting",
+        "url": "https://www.ndb.int/governance/transparency-reporting/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Corporate Procurement",
+        "url": "https://www.ndb.int/procurement-opportunities/corporate-procurement/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Individual Consulting Opportunities",
+        "url": "https://individualconsultant.ndb.int/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Frequently Asked Questions (FAQ)",
+        "url": "https://pppknowledgelab.org/faqs",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Selected World Bank Tools",
+        "url": "https://pppknowledgelab.org/selected-world-bank-tools",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Sector Specific Toolkits",
+        "url": "https://pppknowledgelab.org/sector-specific-toolkits",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Subject Specific Toolkits",
+        "url": "https://pppknowledgelab.org/subject-specific-toolkits",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      }
+    ],
+    "major_economies": [
+      {
+        "title": "StirlingX\u2019s new Linear Surveys deliver real-time progress intelligence for linear infrastructure projects",
+        "url": "https://www.newcivilengineer.com/sponsored/stirlingxs-new-linear-surveys-deliver-real-time-progress-intelligence-for-linear-infrastructure-projects-30-07-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "For civil engineering teams delivering linear infrastructure, incomplete visibility across the construction corridor has always been the cost of doing business. StirlingX has launched a new capability to address this. The post StirlingX\u2019s new Linear Surveys deliver real-time progress intelligence\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "In pictures: Aecom selected to design New Lisbon Airport",
+        "url": "https://www.newcivilengineer.com/latest/in-pictures-aecom-selected-to-design-new-lisbon-airport-30-07-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "Global infrastructure firm Aecom has been selected by ANA Aeroportos de Portugal, which is part of Vinici Airports group, to deliver the preliminary design for New Lisbon Airport (Luis de Cam\u00f5es Airport). The post In pictures: Aecom selected to design New Lisbon Airport appeared first on New Civil\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "Amey launching major engineering recruitment drive with roles in highways, energy and nuclear",
+        "url": "https://www.newcivilengineer.com/latest/amey-launching-major-engineering-recruitment-drive-with-roles-in-highways-energy-and-nuclear-30-07-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "Infrastructure consultancy and operations partner Amey has announced plans to recruit approximately 600 professionals over the next 18 months. The post Amey launching major engineering recruitment drive with roles in highways, energy and nuclear appeared first on New Civil Engineer .",
+        "significance": "high"
+      },
+      {
+        "title": "Explore water infrastructure investments",
+        "url": "https://www.epa.gov/infrastructure/water-infrastructure-investments",
+        "source": "US EPA - Water Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Sustainable transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/sustainable-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Investment",
+        "url": "https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Transport of dangerous goods",
+        "url": "https://transport.ec.europa.eu/transport-themes/transport-dangerous-goods_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Logistics and multimodal transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Social issues, equality and attractiveness of the transport sector",
+        "url": "https://transport.ec.europa.eu/transport-themes/social-issues-equality-and-attractiveness-transport-sector_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "EU Mobility & Transport achievements 2019-2024",
+        "url": "https://transport.ec.europa.eu/transport-themes/eu-mobility-transport-achievements-2019-2024_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      }
+    ],
+    "canada_watch": [
+      {
+        "title": "$100M to $499MIqaluit International: First Arctic Airport P3Location: NunavutStatus: OperationalType of P3: DBFOMValue of Partnership: $418.9 millionHandback: 2050arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/iqaluit-international-first-airport-p3",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationConfederation Bridge: Canada's first P3 to openConfederation BridgeLocation: Prince Edward Island \u2013 New BrunswickStatus: In operation since 1997Value of Partnership: $1.5BType of P3: Design-Build-Finance-Maintain-OperateHandback/P3 Agreement Ends: 2032arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/confederation-bridge",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Transportation",
+        "url": "https://www.fao-on.org/topic/infrastructure-and-transportation",
+        "source": "Ontario Financial Accountability Officer",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationBruce Power: Canada's largest P3Location: OntarioStatus:\u00a0In operation since 2001Type of P3: Design-Build-Finance-Maintain-OperateValue of Partnership: $10BHandback/P3 Agreement Ends: 2044arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/bruce-power-bfdf548f5b9370b5af962d9c011bba91",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Niagara District Airport expansion gets $10M provincial funding boost",
+        "url": "https://canada.constructconnect.com/dcn/news/infrastructure/2026/07/niagara-district-airport-expansion-gets-10m-provincial-funding-boost",
+        "source": "Daily Commercial News",
+        "summary": "NIAGARA FALLS, ONT. \u2014 The Ontario government is investing nearly $10 million to help transform Niagara District AirportNiagara District Airport Site GradingStatusAwardValue$0.3MLocation468 Niagara Stone Rd, Niagara on the Lake ONSectorPublic \u2013 CityTypeTransportation TerminalsData as of July 29,\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Consortium Components",
+        "url": "https://www.pppcouncil.ca/why-p3s/p3-components",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Training & Certification",
+        "url": "https://www.pppcouncil.ca/events/find-p3-training",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Become an Infrastructure Innovators vendor",
+        "url": "https://www.pppcouncil.ca/get-involved/become-an-infrastructure-innovator",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Ontario twinning Highway 3 in St. Thomas",
+        "url": "https://www.renewcanada.net/ontario-twinning-highway-3-in-st-thomas/",
+        "source": "ReNew Canada",
+        "summary": "The Government of Ontario announced it has started construction to expand Highway 3 in St. Thomas. The Highway 3 expansion project will provide a link to Volkswagen\u2019s new PowerCo electric-vehicle [\u2026] The post Ontario twinning Highway 3 in St. Thomas appeared first on ReNew Canada .",
+        "significance": "high"
+      },
+      {
+        "title": "Trades boot camp organizer calls for defence construction strategizing",
+        "url": "https://canada.constructconnect.com/dcn/news/infrastructure/2026/07/trades-boot-camp-organizer-calls-for-defence-construction-strategizing",
+        "source": "Daily Commercial News",
+        "summary": "Construction stakeholders are being urged to stake their claims to a share of the billions in new federal defence infrastructure spending pledged by the Mark Carney government. Aaron Gorka, business developer with Hamilton-based contractor Lancaster Group, was effusive after addressing students\u2026",
+        "significance": "high"
+      }
+    ],
+    "project_finance_delivery": [
+      {
+        "title": "Public-Private PartnershipResource CenterPPPRC",
+        "url": "https://pppknowledgelab.org/",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Competing for Capital: GIIA and Freshfields Report Charts the Growing Global Race for Infrastructure Investment",
+        "url": "https://giia.net/insights/competing-for-capital-giia-and-freshfields/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "About PPP Resource Center",
+        "url": "https://pppknowledgelab.org/about-ppp-resource-center",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "About Public-Private Partnerships",
+        "url": "https://pppknowledgelab.org/about-public-private-partnerships",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "FundraisingEQT\u2019s AI fundraising success shows the pulling power of marquee platformsIts new AI Infrastructure Fund, built around data centre platform EdgeConneX, took just three months to raise $9.4bn.14 hours ago \u00b7 3 mins read",
+        "url": "https://www.infrastructureinvestor.com/eqts-ai-fundraising-success-shows-the-pulling-power-of-marquee-platforms",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "GPIF adds nearly $2.5bn to infrastructure portfolio in FY2025Japan\u2019s Government Pension Investment Fund has only 4% of its infrastructure portfolio within its home country and is on the hunt for a new domestic manager.27 July 2026 \u00b7 3 mins read",
+        "url": "https://www.infrastructureinvestor.com/gpif-adds-nearly-2-5bn-to-infrastructure-portfolio-in-fy2025",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure & Transport",
+        "url": "https://kpmg.com/xx/en/what-we-do/industries/infrastructure.html",
+        "source": "KPMG Global Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Risk Allocation & Management",
+        "url": "https://pppknowledgelab.org/risk-allocation-management",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Invest in infrastructure",
+        "url": "https://giia.net/about/invest-in-infrastructure/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "What the EU Commission\u2019s ETS Review Means for Infrastructure Investors",
+        "url": "https://giia.net/insights/what-the-eu-commissions-ets-review-means-for-infrastructure-investors/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "climate_sustainability": [
+      {
+        "title": "Global Tool for Nature-based Solutions (NbS) : Unlocking Investment Opportunities for Climate-Resilient Infrastructure",
+        "url": "https://gca.org/global-tool-for-nature-based-solutions-nbs-unlocking-investment-opportunities-for-climate-resilient-infrastructure/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Africa Adaptation Acceleration Program (AAAP)",
+        "url": "https://gca.org/programs/aaap/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Adaptation Results Dashboard",
+        "url": "https://gca.org/gca-project-portal/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Infrastructure & Nature-based Solutions (NbS)",
+        "url": "https://gca.org/programs/infrastructure-and-nbs/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Climate Adaptation Finance",
+        "url": "https://gca.org/programs/climate-finance/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Youth Entrepreneurship and Adaptation Jobs",
+        "url": "https://gca.org/programs/youth/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Locally Led Adaptation",
+        "url": "https://gca.org/programs/locally-led-adaptation/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Water & Urban Resilience",
+        "url": "https://gca.org/programs/water/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "State and Trends Reports",
+        "url": "https://gca.org/report-category/flagship-reports/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Global Hub on Locally Led Adaptation",
+        "url": "https://llahub.gca.org/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "tech_innovation": [
+      {
+        "title": "Digital Twin & Simulation Software Market Report 2026\u20132030From$5,000.00",
+        "url": "https://iot-analytics.com/product/digital-twin-simulation-software-market-report-2026-2030/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Quarterly trend report: What CEOs talked about in Q2 2026Subscriber exclusive",
+        "url": "https://iot-analytics.com/product/trend-report-what-ceos-talked-about-q2-2026/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Smart Maintenance Trends Report 2026From$600.00",
+        "url": "https://iot-analytics.com/product/smart-maintenance-trends-report-2026/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      }
+    ]
+  },
+  "stats": {
+    "raw_items": 305,
+    "filtered": 118,
+    "unique": 118,
+    "published": 53
+  }
+}
