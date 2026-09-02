@@ -1,0 +1,410 @@
+{
+  "date": "2026-09-02",
+  "pulse": "Today's digest tracks 55 developments across 6 domains. Key developments include: Infrastructure FinanceLearningIFL; World Bank Group's Role in PPPs. Coverage spans multilateral development finance, major economy infrastructure policy, Canadian infrastructure, and project finance and delivery.",
+  "outlook": "Broad coverage across all six domains today suggests an active policy week ahead. Monitor multilateral announcements and national budget developments for signals on infrastructure spending trajectories. Subscribe via RSS or bookmark this page for tomorrow's edition.",
+  "sections": {
+    "multilateral_finance": [
+      {
+        "title": "Infrastructure FinanceLearningIFL",
+        "url": "https://pppknowledgelab.org/infrastructure-finance-learning",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "World Bank Group's Role in PPPs",
+        "url": "https://pppknowledgelab.org/world-bank-group-s-role-ppps",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure Finance",
+        "url": "https://pppknowledgelab.org/infrastructure-finance",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Transparency & Reporting",
+        "url": "https://www.ndb.int/governance/transparency-reporting/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Corporate Procurement",
+        "url": "https://www.ndb.int/procurement-opportunities/corporate-procurement/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Individual Consulting Opportunities",
+        "url": "https://individualconsultant.ndb.int/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Frequently Asked Questions (FAQ)",
+        "url": "https://pppknowledgelab.org/faqs",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Selected World Bank Tools",
+        "url": "https://pppknowledgelab.org/selected-world-bank-tools",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Sector Specific Toolkits",
+        "url": "https://pppknowledgelab.org/sector-specific-toolkits",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Subject Specific Toolkits",
+        "url": "https://pppknowledgelab.org/subject-specific-toolkits",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      }
+    ],
+    "major_economies": [
+      {
+        "title": "Welsh councils plan \u00a3800M civil engineering framework",
+        "url": "https://www.newcivilengineer.com/latest/welsh-councils-plan-800m-civil-engineering-framework-02-09-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "Five Welsh councils are planning to establish an \u00a3800M framework for civil engineering related construction projects and other works acoss South West Wales, Bridgend and Neath Port Talbot, Swansea and Powys. The post Welsh councils plan \u00a3800M civil engineering framework appeared first on New Civil\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "NCE opens judge nominations for 2027 awards programmes",
+        "url": "https://www.newcivilengineer.com/latest/nce-opens-judge-nominations-for-2027-awards-programmes-02-09-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "New Civil Engineer (NCE) is inviting readers to nominate a judge for its 2027 awards portfolio - including the British Construction & Infrastructure Awards, NCE Awards and NCE Bridges Awards - as it looks to refresh and expand its judging panels. The post NCE opens judge nominations for 2027 awards\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "First 55m Saltley Viaduct section installed for HS2",
+        "url": "https://www.newcivilengineer.com/latest/first-55m-saltley-viaduct-section-installed-for-hs2-02-09-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "Construction of the new Saltley Viaduct moved a step closer over the August Bank Holiday weekend after HS2 engineers successfully installed the first section of the new bridge over the Birmingham to Derby railway lines. The post First 55m Saltley Viaduct section installed for HS2 appeared first on\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "Explore water infrastructure investments",
+        "url": "https://www.epa.gov/infrastructure/water-infrastructure-investments",
+        "source": "US EPA - Water Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Sustainable transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/sustainable-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Investment",
+        "url": "https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Transport of dangerous goods",
+        "url": "https://transport.ec.europa.eu/transport-themes/transport-dangerous-goods_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Logistics and multimodal transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Social issues, equality and attractiveness of the transport sector",
+        "url": "https://transport.ec.europa.eu/transport-themes/social-issues-equality-and-attractiveness-transport-sector_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "EU Mobility & Transport achievements 2019-2024",
+        "url": "https://transport.ec.europa.eu/transport-themes/eu-mobility-transport-achievements-2019-2024_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      }
+    ],
+    "canada_watch": [
+      {
+        "title": "$100M to $499MIqaluit International: First Arctic Airport P3Location: NunavutStatus: OperationalType of P3: DBFOMValue of Partnership: $418.9 millionHandback: 2050arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/iqaluit-international-first-airport-p3",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationConfederation Bridge: Canada's first P3 to openConfederation BridgeLocation: Prince Edward Island \u2013 New BrunswickStatus: In operation since 1997Value of Partnership: $1.5BType of P3: Design-Build-Finance-Maintain-OperateHandback/P3 Agreement Ends: 2032arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/confederation-bridge",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Transportation",
+        "url": "https://www.fao-on.org/topic/infrastructure-and-transportation",
+        "source": "Ontario Financial Accountability Officer",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationBruce Power: Canada's largest P3Location: OntarioStatus:\u00a0In operation since 2001Type of P3: Design-Build-Finance-Maintain-OperateValue of Partnership: $10BHandback/P3 Agreement Ends: 2044arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/bruce-power-bfdf548f5b9370b5af962d9c011bba91",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "PEOPLE MOVES: AUGUST",
+        "url": "https://www.renewcanada.net/people-moves-august/",
+        "source": "ReNew Canada",
+        "summary": "All the biggest hires, promotions and appointments in the Canadian public infrastructure and construction sectors. Bill Gifford FICE, FCIHT has joined the East Harbour Transit Hub Alliance Leadership Team as [\u2026] The post PEOPLE MOVES: AUGUST appeared first on ReNew Canada .",
+        "significance": "high"
+      },
+      {
+        "title": "Climate Change Adaptation Needs to Start Now",
+        "url": "https://cdhowe.org/publication/climate-change-adaptation-needs-to-start-now/",
+        "source": "C.D. Howe Institute - Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Consortium Components",
+        "url": "https://www.pppcouncil.ca/why-p3s/p3-components",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Training & Certification",
+        "url": "https://www.pppcouncil.ca/events/find-p3-training",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Become an Infrastructure Innovators vendor",
+        "url": "https://www.pppcouncil.ca/get-involved/become-an-infrastructure-innovator",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Ontario moves ahead with Highway 413 with procurement notice",
+        "url": "https://www.renewcanada.net/ontario-moves-ahead-with-highway-413-with-procurement-notice/",
+        "source": "ReNew Canada",
+        "summary": "The Government of Ontario announced it has issued a notice of procurement to design and build the east section of Highway\u00a0413 as well as the Highway\u00a0427 Extension. The contract represents [\u2026] The post Ontario moves ahead with Highway 413 with procurement notice appeared first on ReNew Canada .",
+        "significance": "high"
+      }
+    ],
+    "project_finance_delivery": [
+      {
+        "title": "Public-Private PartnershipResource CenterPPPRC",
+        "url": "https://pppknowledgelab.org/",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "About PPP Resource Center",
+        "url": "https://pppknowledgelab.org/about-ppp-resource-center",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "About Public-Private Partnerships",
+        "url": "https://pppknowledgelab.org/about-public-private-partnerships",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Beyond the Bridge: Can the Strait of Messina be the Catalyst for a New Southern Italian Infrastructure Market?",
+        "url": "https://giia.net/insights/beyond-the-bridge-can-the-strait-of-messina-be-the-catalyst-for-a-new-southern-italian-infrastructure-market/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "FundraisingStrong re-ups drive $2bn first close for NIIF\u2019s second infra fundIndia\u2019s National Infrastructure Investment Fund\u2019s sophomore effort is already nearly the size of its first venture, as it eyes a final close in the next 12-18 months.31 August 2026 \u00b7 3 mins read",
+        "url": "https://www.infrastructureinvestor.com/strong-re-ups-drive-2bn-first-close-for-niifs-second-infra-fund/",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "FundraisingHow EQT used secondaries to build the first stage of its new AI infra strategyBlackstone Strategic Partners anchored EQT\u2019s new AI Infrastructure Fund. Once again, secondaries has created a blueprint for loftier goals.27 August 2026 \u00b7 3 mins read",
+        "url": "https://www.infrastructureinvestor.com/copy-secondaries-builds-the-infrastructure/",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure & Transport",
+        "url": "https://kpmg.com/xx/en/what-we-do/industries/infrastructure.html",
+        "source": "KPMG Global Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Risk Allocation & Management",
+        "url": "https://pppknowledgelab.org/risk-allocation-management",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Invest in infrastructure",
+        "url": "https://giia.net/about/invest-in-infrastructure/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Canada\u2019s infrastructure moment in a fragmented world",
+        "url": "https://giia.net/insights/canadas-infrastructure-moment-in-a-fragmented-world/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "climate_sustainability": [
+      {
+        "title": "Global Tool for Nature-based Solutions (NbS) : Unlocking Investment Opportunities for Climate-Resilient Infrastructure",
+        "url": "https://gca.org/global-tool-for-nature-based-solutions-nbs-unlocking-investment-opportunities-for-climate-resilient-infrastructure/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Africa Adaptation Acceleration Program (AAAP)",
+        "url": "https://gca.org/programs/aaap/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Adaptation Results Dashboard",
+        "url": "https://gca.org/gca-project-portal/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Infrastructure & Nature-based Solutions (NbS)",
+        "url": "https://gca.org/programs/infrastructure-and-nbs/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Climate Adaptation Finance",
+        "url": "https://gca.org/programs/climate-finance/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Youth Entrepreneurship and Adaptation Jobs",
+        "url": "https://gca.org/programs/youth/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Locally Led Adaptation",
+        "url": "https://gca.org/programs/locally-led-adaptation/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Water & Urban Resilience",
+        "url": "https://gca.org/programs/water/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "State and Trends Reports",
+        "url": "https://gca.org/report-category/flagship-reports/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Global Hub on Locally Led Adaptation",
+        "url": "https://llahub.gca.org/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "tech_innovation": [
+      {
+        "title": "Design & Engineering Software Adoption Report 2026From$2,000.00",
+        "url": "https://iot-analytics.com/product/design-engineering-software-adoption-report-2026/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Digital Twin & Simulation Software Market Report 2026\u20132030From$5,000.00",
+        "url": "https://iot-analytics.com/product/digital-twin-simulation-software-market-report-2026-2030/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Inside the $1.3B digital twin market: Why no vendor owns the full stack",
+        "url": "https://iot-analytics.com/why-no-vendor-owns-the-full-digital-twin-tech-stack/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Embedded Systems Landscape & Trends Report 2026From$2,000.00",
+        "url": "https://iot-analytics.com/product/embedded-systems-landscape-trends-report-2026/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Quarterly trend report: What CEOs talked about in Q2 2026Subscriber exclusive",
+        "url": "https://iot-analytics.com/product/trend-report-what-ceos-talked-about-q2-2026/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      }
+    ]
+  },
+  "stats": {
+    "raw_items": 315,
+    "filtered": 118,
+    "unique": 118,
+    "published": 55
+  }
+}
