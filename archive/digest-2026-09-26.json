@@ -1,0 +1,403 @@
+{
+  "date": "2026-09-26",
+  "pulse": "Today's digest tracks 54 developments across 6 domains. Key developments include: Infrastructure FinanceLearningIFL; World Bank Group's Role in PPPs. Coverage spans multilateral development finance, major economy infrastructure policy, Canadian infrastructure, and project finance and delivery.",
+  "outlook": "Broad coverage across all six domains today suggests an active policy week ahead. Monitor multilateral announcements and national budget developments for signals on infrastructure spending trajectories. Subscribe via RSS or bookmark this page for tomorrow's edition.",
+  "sections": {
+    "multilateral_finance": [
+      {
+        "title": "Infrastructure FinanceLearningIFL",
+        "url": "https://pppknowledgelab.org/infrastructure-finance-learning",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "World Bank Group's Role in PPPs",
+        "url": "https://pppknowledgelab.org/world-bank-group-s-role-ppps",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure Finance",
+        "url": "https://pppknowledgelab.org/infrastructure-finance",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Transparency & Reporting",
+        "url": "https://www.ndb.int/governance/transparency-reporting/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "BRICS-NDB Knowledge Portal",
+        "url": "https://bnkp.ndb.int/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Corporate Procurement",
+        "url": "https://www.ndb.int/procurement-opportunities/corporate-procurement/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Individual Consulting Opportunities",
+        "url": "https://individualconsultant.ndb.int/",
+        "source": "New Development Bank (BRICS)",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Frequently Asked Questions (FAQ)",
+        "url": "https://pppknowledgelab.org/faqs",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Selected World Bank Tools",
+        "url": "https://pppknowledgelab.org/selected-world-bank-tools",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Sector Specific Toolkits",
+        "url": "https://pppknowledgelab.org/sector-specific-toolkits",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      }
+    ],
+    "major_economies": [
+      {
+        "title": "Trenchless microtunnelling used in Italy and Germany to reduce surface disruption",
+        "url": "https://www.newcivilengineer.com/latest/trenchless-microtunnelling-used-in-italy-and-germany-to-reduce-surface-disruption-25-09-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "Trenchless tunnelling projects in Germany and Italy have demonstrated the growing role of microtunnelling in delivering underground utility and wastewater infrastructure where surface disruption must be minimised. The post Trenchless microtunnelling used in Italy and Germany to reduce surface\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "How are infrastructure specialists grappling with the UK\u2019s energy resilience challenges?",
+        "url": "https://www.newcivilengineer.com/in-depth/how-are-infrastructure-specialists-grappling-with-the-uks-energy-resilience-challenges-25-09-2026/",
+        "source": "New Civil Engineer (UK)",
+        "summary": "Storage capability, climate adaptation and standardisation are just some of the routes to bolstering energy resilience in the UK \u2013 against a backdrop of ageing infrastructure, intermittent renewables and rising demand. The post How are infrastructure specialists grappling with the UK\u2019s energy\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "Explore water infrastructure investments",
+        "url": "https://www.epa.gov/infrastructure/water-infrastructure-investments",
+        "source": "US EPA - Water Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "September 24, 2026South Carolina\u2019s Infrastructure Improves to a C-ASCE South Carolina Report Card Co Chair Jonathan Ard discusses the findings of the 2026 Report Card On September 22,\u2026",
+        "url": "https://infrastructurereportcard.org/south-carolina-infrastructure-report-card-2026/",
+        "source": "ASCE Infrastructure Report Card",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "September 22, 2026New StoryMap Highlights U.S. Transportation ExpansionASCE continues to celebrate the United States\u2019 250th anniversary with our latest interactive StoryMap release, \u201cPaths to Prosperity: How Transportation\u2026",
+        "url": "https://infrastructurereportcard.org/paths-to-prosperity-transportation-infrastructure/",
+        "source": "ASCE Infrastructure Report Card",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "ASCE Member-only resourceInfrastructure Investment & Jobs Act Implementation Resource CenterLearn More",
+        "url": "https://infrastructurereportcard.org/iijaresources/",
+        "source": "ASCE Infrastructure Report Card",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Sustainable transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/sustainable-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Investment",
+        "url": "https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Transport of dangerous goods",
+        "url": "https://transport.ec.europa.eu/transport-themes/transport-dangerous-goods_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Logistics and multimodal transport",
+        "url": "https://transport.ec.europa.eu/transport-themes/logistics-and-multimodal-transport_en",
+        "source": "European Commission - TEN-T",
+        "summary": "",
+        "significance": "high"
+      }
+    ],
+    "canada_watch": [
+      {
+        "title": "$100M to $499MIqaluit International: First Arctic Airport P3Location: NunavutStatus: OperationalType of P3: DBFOMValue of Partnership: $418.9 millionHandback: 2050arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/iqaluit-international-first-airport-p3",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationConfederation Bridge: Canada's first P3 to openConfederation BridgeLocation: Prince Edward Island \u2013 New BrunswickStatus: In operation since 1997Value of Partnership: $1.5BType of P3: Design-Build-Finance-Maintain-OperateHandback/P3 Agreement Ends: 2032arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/confederation-bridge",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "New standard realeased to support Canada\u2019s modular construction sector",
+        "url": "https://www.renewcanada.net/new-standard-realeased-to-support-canadas-modular-construction-sector/",
+        "source": "ReNew Canada",
+        "summary": "As Canada looks to accelerate the delivery of housing and other critical infrastructure, modular construction is playing an increasingly important role. To support the sector\u2019s growth, CSA Group has released\u00a0CSA [\u2026] The post New standard realeased to support Canada\u2019s modular construction sector\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Transportation",
+        "url": "https://www.fao-on.org/topic/infrastructure-and-transportation",
+        "source": "Ontario Financial Accountability Officer",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "In OperationBruce Power: Canada's largest P3Location: OntarioStatus:\u00a0In operation since 2001Type of P3: Design-Build-Finance-Maintain-OperateValue of Partnership: $10BHandback/P3 Agreement Ends: 2044arrow_outward",
+        "url": "https://www.pppcouncil.ca/home/bruce-power-bfdf548f5b9370b5af962d9c011bba91",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Consortium Components",
+        "url": "https://www.pppcouncil.ca/why-p3s/p3-components",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "P3 Training & Certification",
+        "url": "https://www.pppcouncil.ca/events/find-p3-training",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Become an Infrastructure Innovators vendor",
+        "url": "https://www.pppcouncil.ca/get-involved/become-an-infrastructure-innovator",
+        "source": "Canadian Council for P3s",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "EllisDon named GC for St. Thomas gigafactory, timeline for completion now 2029",
+        "url": "https://canada.constructconnect.com/dcn/news/projects/2026/09/ellisdon-named-gc-for-st-thomas-gigafactory-timeline-for-completion-now-2029",
+        "source": "Daily Commercial News",
+        "summary": "ST. THOMAS, ONT. \u2013 PowerCo Canada has named EllisDon Corporation the general contractor for its $7 billion St. Thomas gigafactory, marking a key milestone as the project advances into its next phase of construction. The project is now moving into the core infrastructure and structural phases that\u2026",
+        "significance": "high"
+      },
+      {
+        "title": "From construction to operation: CGC celebrates first shipment from Little Narrows quarry",
+        "url": "https://canada.constructconnect.com/dcn/news/resource/2026/09/from-construction-to-operation-cgc-celebrates-first-shipment-from-little-narrows-quarry",
+        "source": "Daily Commercial News",
+        "summary": "LITTLE NARROWS, N.S. \u2014 CGC Inc., the Canadian division of USG Corporation, marked the first shipment of gypsum rock from its Little Narrows quarry this week, signaling the start of operational commissioning. According to a release, the shipment transitions the $104 million project from construction\u2026",
+        "significance": "high"
+      }
+    ],
+    "project_finance_delivery": [
+      {
+        "title": "Public-Private PartnershipResource CenterPPPRC",
+        "url": "https://pppknowledgelab.org/",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure and Project Finance Regional Reports",
+        "url": "https://eu.greenstreet.com/infrastructure-and-project-finance-regional-reports/",
+        "source": "IJGlobal (Public Content)",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "H1 2026 Infrastructure and Project Finance League Table Report",
+        "url": "https://eu.greenstreet.com/h1-2026-infrastructure-and-project-finance-league-table-report/",
+        "source": "IJGlobal (Public Content)",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "About PPP Resource Center",
+        "url": "https://pppknowledgelab.org/about-ppp-resource-center",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "About Public-Private Partnerships",
+        "url": "https://pppknowledgelab.org/about-public-private-partnerships",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "FundraisingHamilton Lane leads Foresight\u2019s A$660m transport CV in \u2018no-brainer\u2019 dealForesight Group\u2019s continuation vehicle for transport operator Kinetic comes as it winds up its Diversified Infrastructure Trust.24 September 2026 \u00b7 4 mins read",
+        "url": "https://www.infrastructureinvestor.com/hamilton-lane-leads-foresights-a660m-transport-cv-in-no-brainer-deal/",
+        "source": "Infrastructure Investor (Public)",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Infrastructure & Transport",
+        "url": "https://kpmg.com/xx/en/what-we-do/industries/infrastructure.html",
+        "source": "KPMG Global Infrastructure",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Risk Allocation & Management",
+        "url": "https://pppknowledgelab.org/risk-allocation-management",
+        "source": "World Bank PPP Knowledge Lab",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Invest in infrastructure",
+        "url": "https://giia.net/about/invest-in-infrastructure/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "New government has chance to reverse 25-year trend that has seen\u00a0nearly \u00a32 trillion\u00a0of investment lost from UK economy, says report",
+        "url": "https://giia.net/insights/new-government-has-chance-to-reverse-25-year-underinvestment/",
+        "source": "Global Infrastructure Investor Association",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "climate_sustainability": [
+      {
+        "title": "Africa Adaptation Acceleration Program (AAAP)",
+        "url": "https://gca.org/programs/aaap/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Adaptation Results Dashboard",
+        "url": "https://gca.org/gca-project-portal/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Infrastructure & Nature-based Solutions (NbS)",
+        "url": "https://gca.org/programs/infrastructure-and-nbs/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Climate Adaptation Finance",
+        "url": "https://gca.org/programs/climate-finance/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "high"
+      },
+      {
+        "title": "Youth Entrepreneurship and Adaptation Jobs",
+        "url": "https://gca.org/programs/youth/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Locally Led Adaptation",
+        "url": "https://gca.org/programs/locally-led-adaptation/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Water & Urban Resilience",
+        "url": "https://gca.org/programs/water/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "State and Trends Reports",
+        "url": "https://gca.org/report-category/flagship-reports/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Global Hub on Locally Led Adaptation",
+        "url": "https://llahub.gca.org/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Toolkit for Youth on Adaptation & Leadership",
+        "url": "https://youthtoolkit.gca.org/",
+        "source": "Global Commission on Adaptation",
+        "summary": "",
+        "significance": "medium"
+      }
+    ],
+    "tech_innovation": [
+      {
+        "title": "Design & Engineering Software Adoption Report 2026From$2,000.00",
+        "url": "https://iot-analytics.com/product/design-engineering-software-adoption-report-2026/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "The AI trust gap in design and engineering software",
+        "url": "https://iot-analytics.com/the-ai-trust-gap-in-design-and-engineering-software/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Inside the $585 billion embedded systems market: 3 opportunities, 3 challenges, and 5 priorities",
+        "url": "https://iot-analytics.com/embedded-systems-market-opportunities-and-challenges-for-developers/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      },
+      {
+        "title": "Generative AI & Agentic AI Market Report 2026-2032From$5,000.00",
+        "url": "https://iot-analytics.com/product/generative-ai-agentic-ai-market-report/",
+        "source": "IoT Analytics - Smart Infrastructure",
+        "summary": "",
+        "significance": "medium"
+      }
+    ]
+  },
+  "stats": {
+    "raw_items": 306,
+    "filtered": 117,
+    "unique": 117,
+    "published": 54
+  }
+}
